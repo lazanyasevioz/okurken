@@ -1,0 +1,74 @@
+[
+ {
+  "soru": "Why was it difficult to put up the tent?",
+  "tr": "Çadırı kurmak neden zordu?",
+  "secenekler": [
+   "The instructions were in German",
+   "It was raining",
+   "It was dark",
+   "The tent was broken"
+  ],
+  "dogru": 0,
+  "kanit": "The instructions were in German, and we didn't speak German."
+ },
+ {
+  "soru": "What did they eat for dinner?",
+  "tr": "Akşam yemeğinde ne yediler?",
+  "secenekler": [
+   "Cold beans and chocolate",
+   "Fish from the river",
+   "Hot soup",
+   "Sandwiches"
+  ],
+  "dogru": 0,
+  "kanit": "In the end, we ate cold beans from the can and a lot of chocolate."
+ },
+ {
+  "soru": "What was the 'bear'?",
+  "tr": "'Ayı' neydi?",
+  "secenekler": [
+   "A cow",
+   "A dog",
+   "A horse",
+   "The farmer"
+  ],
+  "dogru": 0,
+  "kanit": "A big black and white cow was standing there."
+ },
+ {
+  "soru": "Where was their tent?",
+  "tr": "Çadırları neredeydi?",
+  "secenekler": [
+   "In the middle of a farmer's field",
+   "In the campsite",
+   "Next to a river",
+   "In a forest"
+  ],
+  "dogru": 0,
+  "kanit": "We were in the middle of a farmer's field."
+ },
+ {
+  "soru": "How far was the real campsite?",
+  "tr": "Gerçek kamp alanı ne kadar uzaktaydı?",
+  "secenekler": [
+   "Five hundred metres",
+   "Five kilometres",
+   "Fifty metres",
+   "Two hours"
+  ],
+  "dogru": 0,
+  "kanit": "It was only five hundred metres away, with toilets, showers and a small shop that sold hot food."
+ },
+ {
+  "soru": "What does 'whispered' mean?",
+  "tr": "'whispered' ne demek?",
+  "secenekler": [
+   "fısıldadı",
+   "bağırdı",
+   "ağladı",
+   "güldü"
+  ],
+  "dogru": 0,
+  "kanit": "\"Arda,\" I whispered."
+ }
+]

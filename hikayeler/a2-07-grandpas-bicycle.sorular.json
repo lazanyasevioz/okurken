@@ -1,0 +1,74 @@
+[
+ {
+  "soru": "Where did Zoe find the bicycle?",
+  "tr": "Zoe bisikleti nerede buldu?",
+  "secenekler": [
+   "In her grandfather's garage",
+   "In the park",
+   "In a shop",
+   "In the garden"
+  ],
+  "dogru": 0,
+  "kanit": "When Zoe was helping her grandfather clean his garage, she found an old bicycle under a dusty blanket."
+ },
+ {
+  "soru": "How long did Grandpa ride the bicycle when he was young?",
+  "tr": "Dede gençken bisiklete ne kadar süre bindi?",
+  "secenekler": [
+   "Twenty years",
+   "Two years",
+   "Five years",
+   "Fifty years"
+  ],
+  "dogru": 0,
+  "kanit": "I rode this bicycle every day for twenty years"
+ },
+ {
+  "soru": "How did Zoe learn to repair bicycles?",
+  "tr": "Zoe bisiklet tamir etmeyi nasıl öğrendi?",
+  "secenekler": [
+   "She watched videos on her phone",
+   "Her teacher showed her",
+   "She read a book",
+   "She went to a course"
+  ],
+  "dogru": 0,
+  "kanit": "She watched videos on her phone about how to repair bicycles."
+ },
+ {
+  "soru": "What did Zoe buy with her pocket money?",
+  "tr": "Zoe harçlığıyla ne aldı?",
+  "secenekler": [
+   "New tyres",
+   "A new bell",
+   "A new seat",
+   "A blue bicycle"
+  ],
+  "dogru": 0,
+  "kanit": "She bought new tyres with her pocket money."
+ },
+ {
+  "soru": "What do they do every Sunday now?",
+  "tr": "Artık her pazar ne yapıyorlar?",
+  "secenekler": [
+   "They ride together to the park",
+   "They clean the garage",
+   "They watch videos",
+   "They visit Grandma"
+  ],
+  "dogru": 0,
+  "kanit": "Now, every Sunday morning, Zoe and her grandfather ride together to the park"
+ },
+ {
+  "soru": "What does 'flat' mean in 'the tyres were flat'?",
+  "tr": "'the tyres were flat' cümlesinde 'flat' ne demek?",
+  "secenekler": [
+   "inik, havası bitmiş",
+   "yeni",
+   "kırmızı",
+   "büyük"
+  ],
+  "dogru": 0,
+  "kanit": "The tyres were flat, the chain was brown with rust, and the seat was broken."
+ }
+]

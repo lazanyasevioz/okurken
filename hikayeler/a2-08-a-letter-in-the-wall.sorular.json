@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "Where was the box?",
+  "tr": "Kutu neredeydi?",
+  "secenekler": [
+   "Behind a kitchen wall",
+   "Under the floor",
+   "In the garden",
+   "In the roof"
+  ],
+  "dogru": 0,
+  "kanit": "Behind the wall, there was a small metal box."
+ },
+ {
+  "soru": "How old was Anna when she wrote the letter?",
+  "tr": "Anna mektubu yazdığında kaç yaşındaydı?",
+  "secenekler": [
+   "Ten",
+   "Fifteen",
+   "Eight",
+   "Twenty"
+  ],
+  "dogru": 0,
+  "kanit": "From Anna, 10 years old, 1990."
+ },
+ {
+  "soru": "What did Anna want to be?",
+  "tr": "Anna ne olmak istiyordu?",
+  "secenekler": [
+   "An astronaut",
+   "A doctor",
+   "A teacher",
+   "A cook"
+  ],
+  "dogru": 0,
+  "kanit": "I want to be an astronaut when I grow up."
+ },
+ {
+  "soru": "What is Anna's job now?",
+  "tr": "Anna'nın şimdiki işi ne?",
+  "secenekler": [
+   "She is a scientist for a space agency",
+   "She is an astronaut",
+   "She is a teacher",
+   "She has a pizza restaurant"
+  ],
+  "dogru": 0,
+  "kanit": "She lived in another city, and she worked as a scientist for a space agency."
+ },
+ {
+  "soru": "What did Anna send in the package?",
+  "tr": "Anna paketin içinde ne gönderdi?",
+  "secenekler": [
+   "A letter, a photo and a model rocket",
+   "A cat",
+   "A pizza",
+   "A new phone"
+  ],
+  "dogru": 0,
+  "kanit": "Inside, there was a letter from Anna, a photo of her as a little girl with a fat orange cat, and a small model of a rocket."
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "Who filmed the video?",
+  "tr": "Videoyu kim çekti?",
+  "secenekler": [
+   "Her brother Mert",
+   "Her mother",
+   "Ela herself",
+   "Her friend"
+  ],
+  "dogru": 0,
+  "kanit": "She asked her brother Mert to film her with his phone."
+ },
+ {
+  "soru": "What happened when Ela used the mixer?",
+  "tr": "Ela mikseri kullanınca ne oldu?",
+  "secenekler": [
+   "Chocolate flew all over the walls",
+   "It broke",
+   "Flour covered Mert",
+   "It was too slow"
+  ],
+  "dogru": 0,
+  "kanit": "When she tried to use the mixer, she put it on the highest speed, and chocolate flew all over the walls."
+ },
+ {
+  "soru": "What was the cake like?",
+  "tr": "Kek nasıldı?",
+  "secenekler": [
+   "Flat, black outside and wet in the middle",
+   "Perfect",
+   "Too sweet",
+   "Very big"
+  ],
+  "dogru": 0,
+  "kanit": "It was flat, black on the outside, and wet in the middle."
+ },
+ {
+  "soru": "How many views did the video have in the morning?",
+  "tr": "Sabah videonun kaç izlenmesi vardı?",
+  "secenekler": [
+   "Fifty thousand",
+   "Five hundred",
+   "One million",
+   "Fifty"
+  ],
+  "dogru": 0,
+  "kanit": "The video had fifty thousand views."
+ },
+ {
+  "soru": "What did some followers write when the cake was perfect?",
+  "tr": "Kek mükemmel olunca bazı takipçiler ne yazdı?",
+  "secenekler": [
+   "\"We miss the disasters!\"",
+   "\"Make another one!\"",
+   "\"This is boring!\"",
+   "\"Give us the recipe!\""
+  ],
+  "dogru": 0,
+  "kanit": "But some of them wrote, \"We miss the disasters!\""
+ }
+]

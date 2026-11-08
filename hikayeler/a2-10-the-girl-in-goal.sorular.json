@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "Why did the team need a goalkeeper?",
+  "tr": "Takımın neden kaleciye ihtiyacı vardı?",
+  "secenekler": [
+   "Can broke his arm",
+   "Can moved to another city",
+   "Nobody liked Can",
+   "Emre was ill"
+  ],
+  "dogru": 0,
+  "kanit": "and their goalkeeper, Can, had broken his arm."
+ },
+ {
+  "soru": "Where did Defne practise?",
+  "tr": "Defne nerede antrenman yapıyordu?",
+  "secenekler": [
+   "At home, against the garage door",
+   "At school",
+   "In a football club",
+   "In the park with the boys"
+  ],
+  "dogru": 0,
+  "kanit": "She knew all the rules, and she practised alone at home against the garage door."
+ },
+ {
+  "soru": "How many penalties did the boys score?",
+  "tr": "Çocuklar kaç penaltı attı?",
+  "secenekler": [
+   "None",
+   "Two",
+   "Three",
+   "Five"
+  ],
+  "dogru": 0,
+  "kanit": "Nobody scored."
+ },
+ {
+  "soru": "What was the final score?",
+  "tr": "Maç kaç kaç bitti?",
+  "secenekler": [
+   "One-one",
+   "Two-one",
+   "One-nil",
+   "Three-two"
+  ],
+  "dogru": 0,
+  "kanit": "The match finished one-one"
+ },
+ {
+  "soru": "What does 'goalkeeper' mean?",
+  "tr": "'goalkeeper' ne demek?",
+  "secenekler": [
+   "kaleci",
+   "kaptan",
+   "hakem",
+   "defans oyuncusu"
+  ],
+  "dogru": 0,
+  "kanit": "We need a goalkeeper."
+ }
+]

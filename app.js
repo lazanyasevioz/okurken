@@ -3,7 +3,7 @@
 
 const $ = (id) => document.getElementById(id);
 const ekran = $("ekran");
-const KELIME = /[A-Za-zÀ-ÿ]+(?:'[A-Za-zÀ-ÿ]+)?/g;   // uret.py ile aynı kural
+const KELIME = /[A-Za-zÀ-ÿĀ-ſ]+(?:'[A-Za-zÀ-ÿĀ-ſ]+)?/g;   // uret.py ile aynı kural
 
 let sozluk = {};        // { "walked": ["yürümek", "walk"], ... }
 let liste = [];         // hikâye listesi

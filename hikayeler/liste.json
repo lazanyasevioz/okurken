@@ -162,6 +162,114 @@
   "soruSayisi": 6
  },
  {
+  "id": "a2-04-the-wrong-train",
+  "baslik": "The Wrong Train",
+  "seviye": "A2",
+  "dosya": "hikayeler/a2-04-the-wrong-train.txt",
+  "kelime": 301,
+  "sorular": "hikayeler/a2-04-the-wrong-train.sorular.json",
+  "soruSayisi": 6
+ },
+ {
+  "id": "a2-05-the-lost-wallet",
+  "baslik": "The Lost Wallet",
+  "seviye": "A2",
+  "dosya": "hikayeler/a2-05-the-lost-wallet.txt",
+  "kelime": 288,
+  "sorular": "hikayeler/a2-05-the-lost-wallet.sorular.json",
+  "soruSayisi": 5
+ },
+ {
+  "id": "a2-06-first-day-at-the-cafe",
+  "baslik": "First Day at the Café",
+  "seviye": "A2",
+  "dosya": "hikayeler/a2-06-first-day-at-the-cafe.txt",
+  "kelime": 289,
+  "sorular": "hikayeler/a2-06-first-day-at-the-cafe.sorular.json",
+  "soruSayisi": 5
+ },
+ {
+  "id": "a2-07-grandpas-bicycle",
+  "baslik": "Grandpa's Bicycle",
+  "seviye": "A2",
+  "dosya": "hikayeler/a2-07-grandpas-bicycle.txt",
+  "kelime": 291,
+  "sorular": "hikayeler/a2-07-grandpas-bicycle.sorular.json",
+  "soruSayisi": 6
+ },
+ {
+  "id": "a2-08-a-letter-in-the-wall",
+  "baslik": "A Letter in the Wall",
+  "seviye": "A2",
+  "dosya": "hikayeler/a2-08-a-letter-in-the-wall.txt",
+  "kelime": 319,
+  "sorular": "hikayeler/a2-08-a-letter-in-the-wall.sorular.json",
+  "soruSayisi": 5
+ },
+ {
+  "id": "a2-09-the-noise-in-the-night",
+  "baslik": "The Noise in the Night",
+  "seviye": "A2",
+  "dosya": "hikayeler/a2-09-the-noise-in-the-night.txt",
+  "kelime": 316,
+  "sorular": "hikayeler/a2-09-the-noise-in-the-night.sorular.json",
+  "soruSayisi": 5
+ },
+ {
+  "id": "a2-10-the-girl-in-goal",
+  "baslik": "The Girl in Goal",
+  "seviye": "A2",
+  "dosya": "hikayeler/a2-10-the-girl-in-goal.txt",
+  "kelime": 324,
+  "sorular": "hikayeler/a2-10-the-girl-in-goal.sorular.json",
+  "soruSayisi": 5
+ },
+ {
+  "id": "a2-11-the-bear-in-the-dark",
+  "baslik": "The Bear in the Dark",
+  "seviye": "A2",
+  "dosya": "hikayeler/a2-11-the-bear-in-the-dark.txt",
+  "kelime": 338,
+  "sorular": "hikayeler/a2-11-the-bear-in-the-dark.sorular.json",
+  "soruSayisi": 6
+ },
+ {
+  "id": "a2-12-the-cooking-video",
+  "baslik": "The Cooking Video",
+  "seviye": "A2",
+  "dosya": "hikayeler/a2-12-the-cooking-video.txt",
+  "kelime": 308,
+  "sorular": "hikayeler/a2-12-the-cooking-video.sorular.json",
+  "soruSayisi": 5
+ },
+ {
+  "id": "a2-13-the-parrot-who-talked",
+  "baslik": "The Parrot Who Talked",
+  "seviye": "A2",
+  "dosya": "hikayeler/a2-13-the-parrot-who-talked.txt",
+  "kelime": 294,
+  "sorular": "hikayeler/a2-13-the-parrot-who-talked.sorular.json",
+  "soruSayisi": 5
+ },
+ {
+  "id": "a2-14-the-broken-window",
+  "baslik": "The Broken Window",
+  "seviye": "A2",
+  "dosya": "hikayeler/a2-14-the-broken-window.txt",
+  "kelime": 328,
+  "sorular": "hikayeler/a2-14-the-broken-window.sorular.json",
+  "soruSayisi": 5
+ },
+ {
+  "id": "a2-15-the-snow-day",
+  "baslik": "The Snow Day",
+  "seviye": "A2",
+  "dosya": "hikayeler/a2-15-the-snow-day.txt",
+  "kelime": 309,
+  "sorular": "hikayeler/a2-15-the-snow-day.sorular.json",
+  "soruSayisi": 6
+ },
+ {
   "id": "03-the-last-train",
   "baslik": "The Last Train",
   "seviye": "B1",

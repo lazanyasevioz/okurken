@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "Where did the noise come from?",
+  "tr": "Ses nereden geliyordu?",
+  "secenekler": [
+   "From the garden",
+   "From the kitchen",
+   "From the roof",
+   "From the street"
+  ],
+  "dogru": 0,
+  "kanit": "It came from the garden."
+ },
+ {
+  "soru": "What happened to the vegetable garden?",
+  "tr": "Sebze bahçesine ne oldu?",
+  "secenekler": [
+   "Someone dug holes and the strawberries were gone",
+   "It was full of water",
+   "A tree fell on it",
+   "Nothing happened"
+  ],
+  "dogru": 0,
+  "kanit": "The next morning, she found that someone had dug holes in her vegetable garden."
+ },
+ {
+  "soru": "What did Hana take outside the second night?",
+  "tr": "Hana ikinci gece dışarı ne aldı?",
+  "secenekler": [
+   "A torch and an umbrella",
+   "A phone and a knife",
+   "A dog",
+   "Her neighbour"
+  ],
+  "dogru": 0,
+  "kanit": "She had a torch and a big umbrella, because she didn't have anything better."
+ },
+ {
+  "soru": "What was the 'thief'?",
+  "tr": "'Hırsız' neydi?",
+  "secenekler": [
+   "A hedgehog",
+   "A fox",
+   "A cat",
+   "Some kids"
+  ],
+  "dogru": 0,
+  "kanit": "It was a hedgehog."
+ },
+ {
+  "soru": "What did Hana build?",
+  "tr": "Hana ne yaptı?",
+  "secenekler": [
+   "A small house for the hedgehog",
+   "A new fence",
+   "A trap",
+   "A bigger garden"
+  ],
+  "dogru": 0,
+  "kanit": "She made a small house for the hedgehog from wood and old leaves."
+ }
+]

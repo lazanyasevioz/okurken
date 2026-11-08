@@ -1,0 +1,74 @@
+[
+ {
+  "soru": "What did the weather forecast say?",
+  "tr": "Hava tahmini ne diyordu?",
+  "secenekler": [
+   "Light rain",
+   "Heavy snow",
+   "Sun",
+   "Strong wind"
+  ],
+  "dogru": 0,
+  "kanit": "The weather forecast said \"light rain,\" but in the night, the rain became snow, and it didn't stop."
+ },
+ {
+  "soru": "What didn't work that day?",
+  "tr": "O gün ne çalışmıyordu?",
+  "secenekler": [
+   "The internet",
+   "The electricity",
+   "The phones' cameras",
+   "The kitchen"
+  ],
+  "dogru": 0,
+  "kanit": "The electricity worked, but the internet was down."
+ },
+ {
+  "soru": "What did Mrs Garcia do?",
+  "tr": "Bayan Garcia ne yaptı?",
+  "secenekler": [
+   "She made soup for everybody",
+   "She cleared the snow",
+   "She played the guitar",
+   "She built a snowman"
+  ],
+  "dogru": 0,
+  "kanit": "Mrs Garcia, who was eighty, couldn't help with the snow, so she made a huge pot of soup and gave a bowl to everybody."
+ },
+ {
+  "soru": "What did the family at number 10 realise?",
+  "tr": "10 numaradaki aile neyi fark etti?",
+  "secenekler": [
+   "They didn't know their neighbours' names",
+   "Their house was cold",
+   "They had no shovel",
+   "They loved snow"
+  ],
+  "dogru": 0,
+  "kanit": "realised that they didn't know the names of any of their neighbours."
+ },
+ {
+  "soru": "What happens every year on the same date?",
+  "tr": "Her yıl aynı tarihte ne oluyor?",
+  "secenekler": [
+   "A street party",
+   "A snowball fight",
+   "A football match",
+   "Nothing"
+  ],
+  "dogru": 0,
+  "kanit": "And every year on the same date, they have a street party with soup, music and hot tea."
+ },
+ {
+  "soru": "What does 'melt' mean?",
+  "tr": "'melt' ne demek?",
+  "secenekler": [
+   "erimek",
+   "donmak",
+   "yağmak",
+   "düşmek"
+  ],
+  "dogru": 0,
+  "kanit": "The next day, the snow began to melt."
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "How did the window break?",
+  "tr": "Pencere nasıl kırıldı?",
+  "secenekler": [
+   "Burak's ball went through it",
+   "A stone hit it",
+   "The dog jumped on it",
+   "The wind broke it"
+  ],
+  "dogru": 0,
+  "kanit": "It flew over the wall and crashed through the window of Mr Aydın's house."
+ },
+ {
+  "soru": "Why couldn't Burak sleep?",
+  "tr": "Burak neden uyuyamadı?",
+  "secenekler": [
+   "He kept thinking about the broken window",
+   "He was ill",
+   "The dog barked all night",
+   "He played video games"
+  ],
+  "dogru": 0,
+  "kanit": "He kept thinking about the broken window."
+ },
+ {
+  "soru": "How much money did Burak have?",
+  "tr": "Burak'ın ne kadar parası vardı?",
+  "secenekler": [
+   "Forty pounds",
+   "Four pounds",
+   "Fourteen pounds",
+   "A hundred pounds"
+  ],
+  "dogru": 0,
+  "kanit": "He had saved forty pounds for a new video game."
+ },
+ {
+  "soru": "What did Mr Aydın ask Burak to do?",
+  "tr": "Bay Aydın, Burak'tan ne istedi?",
+  "secenekler": [
+   "Walk his dog",
+   "Fix the window",
+   "Clean his house",
+   "Pay one hundred pounds"
+  ],
+  "dogru": 0,
+  "kanit": "I need someone to walk my dog."
+ },
+ {
+  "soru": "What was Mr Aydın's job when he was young?",
+  "tr": "Bay Aydın gençken ne iş yapıyordu?",
+  "secenekler": [
+   "He was a footballer",
+   "He was a teacher",
+   "He was a window maker",
+   "He was a dog trainer"
+  ],
+  "dogru": 0,
+  "kanit": "He was a famous footballer when he was young, and he still had his old photos and medals."
+ }
+]

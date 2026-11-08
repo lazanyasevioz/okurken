@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "What did Mrs Lee give Jake?",
+  "tr": "Bayan Lee, Jake'e ne verdi?",
+  "secenekler": [
+   "A black apron and a notebook",
+   "A cup of coffee",
+   "A phone",
+   "A cake"
+  ],
+  "dogru": 0,
+  "kanit": "The manager, Mrs Lee, gave him a black apron and a notebook."
+ },
+ {
+  "soru": "When did the café become very busy?",
+  "tr": "Kafe ne zaman çok kalabalıklaştı?",
+  "secenekler": [
+   "At twelve o'clock",
+   "At nine o'clock",
+   "In the evening",
+   "At eight o'clock"
+  ],
+  "dogru": 0,
+  "kanit": "At twelve o'clock, everything changed."
+ },
+ {
+  "soru": "What happened to the coffee?",
+  "tr": "Kahveye ne oldu?",
+  "secenekler": [
+   "It landed on a man's suit",
+   "Jake drank it",
+   "It was cold",
+   "It fell on Mrs Lee"
+  ],
+  "dogru": 0,
+  "kanit": "His foot hit a chair, and the coffee flew through the air and landed on the man's suit."
+ },
+ {
+  "soru": "Who was the man in the grey suit?",
+  "tr": "Gri takım elbiseli adam kimdi?",
+  "secenekler": [
+   "The owner of the café",
+   "A famous actor",
+   "Jake's father",
+   "A new waiter"
+  ],
+  "dogru": 0,
+  "kanit": "He was Mr Lee, the owner of the café, and Mrs Lee's husband."
+ },
+ {
+  "soru": "What does 'mistake' mean?",
+  "tr": "'mistake' ne demek?",
+  "secenekler": [
+   "hata",
+   "sipariş",
+   "maaş",
+   "masa"
+  ],
+  "dogru": 0,
+  "kanit": "You made a lot of mistakes"
+ }
+]

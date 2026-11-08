@@ -1,0 +1,74 @@
+[
+ {
+  "soru": "Where was Kemal going?",
+  "tr": "Kemal nereye gidiyordu?",
+  "secenekler": [
+   "To the city, to his aunt",
+   "To the sea",
+   "To his school",
+   "To Mr Hill's house"
+  ],
+  "dogru": 0,
+  "kanit": "He had to take the train from his town to the city, where his aunt was waiting for him at the station."
+ },
+ {
+  "soru": "What did Kemal see out of the window?",
+  "tr": "Kemal pencereden ne gördü?",
+  "secenekler": [
+   "Fields, sheep and a lot of water",
+   "Tall buildings",
+   "Mountains and snow",
+   "A big station"
+  ],
+  "dogru": 0,
+  "kanit": "Instead, he saw fields, sheep and a lot of water."
+ },
+ {
+  "soru": "What was Mr Hill's job?",
+  "tr": "Bay Hill'in mesleği neydi?",
+  "secenekler": [
+   "He was a fisherman",
+   "He was a train driver",
+   "He was a teacher",
+   "He was a farmer"
+  ],
+  "dogru": 0,
+  "kanit": "He was a fisherman, and he was going home."
+ },
+ {
+  "soru": "How did Kemal's aunt feel?",
+  "tr": "Kemal'in teyzesi nasıl hissetti?",
+  "secenekler": [
+   "She was not angry",
+   "She was very angry",
+   "She was worried and cried",
+   "She didn't answer the phone"
+  ],
+  "dogru": 0,
+  "kanit": "She was not angry."
+ },
+ {
+  "soru": "What does Kemal do every summer now?",
+  "tr": "Kemal artık her yaz ne yapıyor?",
+  "secenekler": [
+   "He takes the same train on purpose",
+   "He goes to the city",
+   "He works on a boat",
+   "He stays at home"
+  ],
+  "dogru": 0,
+  "kanit": "Now, every summer, Kemal takes the same \"wrong\" train on purpose."
+ },
+ {
+  "soru": "What does 'on purpose' mean?",
+  "tr": "'on purpose' ne demek?",
+  "secenekler": [
+   "bilerek, kasıtlı olarak",
+   "yanlışlıkla",
+   "hızlıca",
+   "yalnız başına"
+  ],
+  "dogru": 0,
+  "kanit": "Now, every summer, Kemal takes the same \"wrong\" train on purpose."
+ }
+]

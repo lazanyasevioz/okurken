@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "Why did Paşa stay with the Yılmaz family?",
+  "tr": "Paşa neden Yılmaz ailesinde kaldı?",
+  "secenekler": [
+   "Aunt Selma went to Australia",
+   "Aunt Selma was ill",
+   "They bought him",
+   "He flew to their house"
+  ],
+  "dogru": 0,
+  "kanit": "When Aunt Selma went to Australia for a month, she left her parrot, Paşa, with the Yılmaz family."
+ },
+ {
+  "soru": "How old was Paşa?",
+  "tr": "Paşa kaç yaşındaydı?",
+  "secenekler": [
+   "Forty",
+   "Four",
+   "Fourteen",
+   "A hundred"
+  ],
+  "dogru": 0,
+  "kanit": "Paşa was green and yellow, he was forty years old, and he could say more than a hundred words."
+ },
+ {
+  "soru": "What did Paşa say in Mr Yılmaz's voice?",
+  "tr": "Paşa, Bay Yılmaz'ın sesiyle ne dedi?",
+  "secenekler": [
+   "\"That man talks too much!\"",
+   "\"Welcome!\"",
+   "\"Where is the cheap rice?\"",
+   "\"Good morning!\""
+  ],
+  "dogru": 0,
+  "kanit": "That man talks too much!"
+ },
+ {
+  "soru": "How did Mr Kaya react?",
+  "tr": "Bay Kaya nasıl tepki verdi?",
+  "secenekler": [
+   "He laughed",
+   "He went home",
+   "He was very angry",
+   "He cried"
+  ],
+  "dogru": 0,
+  "kanit": "And then, slowly, Mr Kaya started to laugh."
+ },
+ {
+  "soru": "What does 'guests' mean?",
+  "tr": "'guests' ne demek?",
+  "secenekler": [
+   "misafirler",
+   "komşular",
+   "kuşlar",
+   "çocuklar"
+  ],
+  "dogru": 0,
+  "kanit": "Paşa looked at the guests."
+ }
+]

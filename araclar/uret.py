@@ -104,7 +104,7 @@ def bul(k: str):
 ana_kullanilan = []   # FreeDict'ten gelen kelimeler (elle kontrol etmek için)
 
 
-KELIME = re.compile(r"[A-Za-zÀ-ÿ]+(?:'[A-Za-zÀ-ÿ]+)?")
+KELIME = re.compile(r"[A-Za-zÀ-ÿĀ-ſ]+(?:'[A-Za-zÀ-ÿĀ-ſ]+)?")
 
 liste, butun = [], set()
 for dosya in sorted(HIKAYE_DIR.glob("*.txt")):

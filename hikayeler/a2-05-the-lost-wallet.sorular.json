@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "How much money was in the wallet?",
+  "tr": "Cüzdanda ne kadar para vardı?",
+  "secenekler": [
+   "Three hundred euros",
+   "Fifty euros",
+   "Forty euros",
+   "One thousand euros"
+  ],
+  "dogru": 0,
+  "kanit": "There were three hundred euros, two bank cards, and a small photo of a baby."
+ },
+ {
+  "soru": "What did Rosa need?",
+  "tr": "Rosa'nın neye ihtiyacı vardı?",
+  "secenekler": [
+   "New shoes for winter",
+   "A new phone",
+   "A new bag",
+   "Money for school"
+  ],
+  "dogru": 0,
+  "kanit": "Her mother worked long hours at a hotel, and Rosa needed new shoes for winter."
+ },
+ {
+  "soru": "What was the money for?",
+  "tr": "Para ne içindi?",
+  "secenekler": [
+   "For his daughter's doctor",
+   "For a new oven",
+   "For a holiday",
+   "For the shop"
+  ],
+  "dogru": 0,
+  "kanit": "The money is for my daughter's doctor."
+ },
+ {
+  "soru": "What did Mr Costa give Rosa?",
+  "tr": "Bay Costa, Rosa'ya ne verdi?",
+  "secenekler": [
+   "A job on Saturdays",
+   "Fifty euros",
+   "A cake",
+   "New shoes"
+  ],
+  "dogru": 0,
+  "kanit": "Would you like a job?"
+ },
+ {
+  "soru": "What does 'worried' mean?",
+  "tr": "'worried' ne demek?",
+  "secenekler": [
+   "endişeli",
+   "mutlu",
+   "yorgun",
+   "kızgın"
+  ],
+  "dogru": 0,
+  "kanit": "He looked worried."
+ }
+]
