@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "Why does Omar go to the market alone?",
+  "tr": "Omar neden pazara yalnız gidiyor?",
+  "secenekler": [
+   "His father is ill",
+   "His father is at work",
+   "He wants to buy a present",
+   "His mother is busy"
+  ],
+  "dogru": 0,
+  "kanit": "Today, his father is ill."
+ },
+ {
+  "soru": "How much money does Omar have at the start?",
+  "tr": "Omar'ın başta ne kadar parası var?",
+  "secenekler": [
+   "Twenty pounds",
+   "Ten pounds",
+   "Four pounds",
+   "Fifty pounds"
+  ],
+  "dogru": 0,
+  "kanit": "Here is a list and twenty pounds."
+ },
+ {
+  "soru": "What is the most expensive thing?",
+  "tr": "En pahalı şey hangisi?",
+  "secenekler": [
+   "The chicken",
+   "The apples",
+   "The tomatoes",
+   "The bread"
+  ],
+  "dogru": 0,
+  "kanit": "The chicken is expensive. It costs ten pounds."
+ },
+ {
+  "soru": "How many lemons does Omar get?",
+  "tr": "Omar kaç limon alıyor?",
+  "secenekler": [
+   "Four",
+   "Three",
+   "Six",
+   "One"
+  ],
+  "dogru": 0,
+  "kanit": "She puts four lemons in his bag."
+ },
+ {
+  "soru": "What does 'expensive' mean?",
+  "tr": "'expensive' ne demek?",
+  "secenekler": [
+   "pahalı",
+   "ucuz",
+   "büyük",
+   "taze"
+  ],
+  "dogru": 0,
+  "kanit": "The chicken is expensive."
+ }
+]

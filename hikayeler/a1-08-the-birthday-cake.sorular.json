@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "How old is Mum today?",
+  "tr": "Anne bugün kaç yaşında?",
+  "secenekler": [
+   "Forty",
+   "Thirty",
+   "Fifty",
+   "Forty-five"
+  ],
+  "dogru": 0,
+  "kanit": "She is forty."
+ },
+ {
+  "soru": "What does Ben do?",
+  "tr": "Ben ne yapıyor?",
+  "secenekler": [
+   "He breaks the eggs",
+   "He reads the recipe",
+   "He puts chocolate on top",
+   "He opens the oven"
+  ],
+  "dogru": 0,
+  "kanit": "He breaks the eggs."
+ },
+ {
+  "soru": "Why does Dad fall?",
+  "tr": "Baba neden düşüyor?",
+  "secenekler": [
+   "The cat runs between his feet",
+   "The floor is wet",
+   "The cake is heavy",
+   "Ben pushes him"
+  ],
+  "dogru": 0,
+  "kanit": "But Max, the cat, runs between his feet."
+ },
+ {
+  "soru": "What does Mum do when she sees the cake?",
+  "tr": "Anne pastayı görünce ne yapıyor?",
+  "secenekler": [
+   "She laughs and eats a piece",
+   "She cries",
+   "She is angry",
+   "She goes to bed"
+  ],
+  "dogru": 0,
+  "kanit": "Then she starts to laugh."
+ },
+ {
+  "soru": "What does 'oven' mean?",
+  "tr": "'oven' ne demek?",
+  "secenekler": [
+   "fırın",
+   "kase",
+   "kaşık",
+   "buzdolabı"
+  ],
+  "dogru": 0,
+  "kanit": "They mix everything and put the cake in the oven."
+ }
+]

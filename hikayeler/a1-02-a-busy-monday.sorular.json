@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "What time does Tom wake up?",
+  "tr": "Tom saat kaçta uyanıyor?",
+  "secenekler": [
+   "At seven o'clock",
+   "At six o'clock",
+   "At eight o'clock",
+   "At ten o'clock"
+  ],
+  "dogru": 0,
+  "kanit": "Tom wakes up at seven o'clock."
+ },
+ {
+  "soru": "What does Tom have for breakfast?",
+  "tr": "Tom kahvaltıda ne yiyor?",
+  "secenekler": [
+   "Bread, cheese and orange juice",
+   "Eggs and milk",
+   "Cake and tea",
+   "Nothing"
+  ],
+  "dogru": 0,
+  "kanit": "He has bread, cheese and a glass of orange juice."
+ },
+ {
+  "soru": "Why is the street quiet?",
+  "tr": "Sokak neden sessiz?",
+  "secenekler": [
+   "Because it is Sunday",
+   "Because it is raining",
+   "Because it is very early",
+   "Because there is no school bus"
+  ],
+  "dogru": 0,
+  "kanit": "Tom, today is Sunday!"
+ },
+ {
+  "soru": "What does Tom do at the end?",
+  "tr": "Tom sonunda ne yapıyor?",
+  "secenekler": [
+   "He goes back to bed",
+   "He goes to school",
+   "He plays football",
+   "He eats breakfast again"
+  ],
+  "dogru": 0,
+  "kanit": "He goes back into the house, takes off his school clothes and gets into bed again."
+ },
+ {
+  "soru": "What does 'tired' mean?",
+  "tr": "'tired' ne demek?",
+  "secenekler": [
+   "yorgun",
+   "mutlu",
+   "aç",
+   "kızgın"
+  ],
+  "dogru": 0,
+  "kanit": "He is tired, but he gets up."
+ }
+]

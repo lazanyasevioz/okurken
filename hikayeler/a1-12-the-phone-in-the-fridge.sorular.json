@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "What is Mr Jones's problem?",
+  "tr": "Bay Jones'un sorunu ne?",
+  "secenekler": [
+   "He forgets things",
+   "He can't hear well",
+   "He can't see well",
+   "He talks too much"
+  ],
+  "dogru": 0,
+  "kanit": "Mr Jones is a good man, but he forgets things."
+ },
+ {
+  "soru": "How does he find his phone?",
+  "tr": "Telefonunu nasıl buluyor?",
+  "secenekler": [
+   "He calls it with his wife's phone",
+   "His wife finds it",
+   "His dog finds it",
+   "He sees it on the table"
+  ],
+  "dogru": 0,
+  "kanit": "He takes his wife's phone and calls his number."
+ },
+ {
+  "soru": "Where is the phone?",
+  "tr": "Telefon nerede?",
+  "secenekler": [
+   "In the fridge",
+   "In the oven",
+   "In the car",
+   "In his coat"
+  ],
+  "dogru": 0,
+  "kanit": "His phone is in the fridge, next to the milk and the cheese!"
+ },
+ {
+  "soru": "Where is the milk at the end?",
+  "tr": "Süt sonunda nerede?",
+  "secenekler": [
+   "In the bathroom",
+   "In the fridge",
+   "On the table",
+   "In the car"
+  ],
+  "dogru": 0,
+  "kanit": "The milk is in the bathroom, next to the toothbrush."
+ },
+ {
+  "soru": "What does 'forget' mean?",
+  "tr": "'forget' ne demek?",
+  "secenekler": [
+   "unutmak",
+   "bulmak",
+   "aramak",
+   "dinlemek"
+  ],
+  "dogru": 0,
+  "kanit": "He forgets his keys."
+ }
+]

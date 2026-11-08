@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "What colour are Robo's eyes at the start?",
+  "tr": "Başta Robo'nun gözleri ne renk?",
+  "secenekler": [
+   "Blue",
+   "Red",
+   "Green",
+   "Black"
+  ],
+  "dogru": 0,
+  "kanit": "It is tall and silver, and it has two big blue eyes."
+ },
+ {
+  "soru": "Where does Robo put the eggs?",
+  "tr": "Robo yumurtaları nereye koyuyor?",
+  "secenekler": [
+   "In the toaster",
+   "In a pan",
+   "In the fridge",
+   "In the milk"
+  ],
+  "dogru": 0,
+  "kanit": "First, he puts the eggs in the toaster."
+ },
+ {
+  "soru": "Who teaches Robo?",
+  "tr": "Robo'ya kim öğretiyor?",
+  "secenekler": [
+   "Emma",
+   "Mr Brown",
+   "Mrs Brown",
+   "Nobody"
+  ],
+  "dogru": 0,
+  "kanit": "Emma, who is eight, takes Robo's metal hand."
+ },
+ {
+  "soru": "What happens to Robo's eyes when he is happy?",
+  "tr": "Robo mutlu olunca gözlerine ne oluyor?",
+  "secenekler": [
+   "They turn green",
+   "They turn red",
+   "They close",
+   "They turn blue"
+  ],
+  "dogru": 0,
+  "kanit": "Robo's eyes turn green."
+ },
+ {
+  "soru": "What does Robo put in the toaster at the end?",
+  "tr": "Robo sonunda ekmek kızartma makinesine ne koyuyor?",
+  "secenekler": [
+   "A banana",
+   "An egg",
+   "Some milk",
+   "Bread"
+  ],
+  "dogru": 0,
+  "kanit": "Then he puts a banana in the toaster."
+ }
+]

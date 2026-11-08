@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "How long does the child stay with Grandpa?",
+  "tr": "Çocuk dedesinin yanında ne kadar kalıyor?",
+  "secenekler": [
+   "Two weeks",
+   "One week",
+   "One month",
+   "Two days"
+  ],
+  "dogru": 0,
+  "kanit": "Every summer, I stay with him for two weeks."
+ },
+ {
+  "soru": "What is the prize?",
+  "tr": "Ödül ne?",
+  "secenekler": [
+   "A gold cup",
+   "Money",
+   "A new garden",
+   "A big tomato"
+  ],
+  "dogru": 0,
+  "kanit": "The prize is a gold cup."
+ },
+ {
+  "soru": "Why does the child sing to the tomatoes?",
+  "tr": "Çocuk domateslere neden şarkı söylüyor?",
+  "secenekler": [
+   "Grandpa says tomatoes like music",
+   "The child likes singing",
+   "It is a game",
+   "To wake them up"
+  ],
+  "dogru": 0,
+  "kanit": "Grandpa says that tomatoes like music, so I sing to them."
+ },
+ {
+  "soru": "How heavy is Bob?",
+  "tr": "Bob ne kadar ağır?",
+  "secenekler": [
+   "One kilo and two hundred grams",
+   "Two kilos",
+   "Five hundred grams",
+   "One kilo"
+  ],
+  "dogru": 0,
+  "kanit": "One kilo and two hundred grams!"
+ },
+ {
+  "soru": "What do they do with Bob in the evening?",
+  "tr": "Akşam Bob'la ne yapıyorlar?",
+  "secenekler": [
+   "They make a salad",
+   "They put it in a museum",
+   "They give it to Mr White",
+   "They plant it"
+  ],
+  "dogru": 0,
+  "kanit": "That evening, we make a big salad with Bob."
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "What do they use for the snowman's eyes?",
+  "tr": "Kardan adamın gözleri için ne kullanıyorlar?",
+  "secenekler": [
+   "Two black stones",
+   "Two buttons",
+   "Two carrots",
+   "Two apples"
+  ],
+  "dogru": 0,
+  "kanit": "Ella finds two black stones for the eyes."
+ },
+ {
+  "soru": "What is the snowman's name?",
+  "tr": "Kardan adamın adı ne?",
+  "secenekler": [
+   "Mr Frost",
+   "Mr Snow",
+   "Leo",
+   "Grandpa"
+  ],
+  "dogru": 0,
+  "kanit": "His name is Mr Frost"
+ },
+ {
+  "soru": "Why does the snowman get smaller?",
+  "tr": "Kardan adam neden küçülüyor?",
+  "secenekler": [
+   "The sun comes out and it is warm",
+   "Leo takes the snow",
+   "A dog eats it",
+   "It rains"
+  ],
+  "dogru": 0,
+  "kanit": "After a week, the sun comes out. The weather is warm."
+ },
+ {
+  "soru": "Where does Leo put the red hat?",
+  "tr": "Leo kırmızı şapkayı nereye koyuyor?",
+  "secenekler": [
+   "In a box under his bed",
+   "On his head",
+   "In the garden",
+   "In the kitchen"
+  ],
+  "dogru": 0,
+  "kanit": "Leo puts the red hat in a box under his bed."
+ },
+ {
+  "soru": "What does 'scarf' mean?",
+  "tr": "'scarf' ne demek?",
+  "secenekler": [
+   "atkı",
+   "şapka",
+   "eldiven",
+   "palto"
+  ],
+  "dogru": 0,
+  "kanit": "Grandpa gives them his old red hat and his long green scarf."
+ }
+]

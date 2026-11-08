@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "How old is Grandma?",
+  "tr": "Büyükanne kaç yaşında?",
+  "secenekler": [
+   "Seventy-five",
+   "Sixty",
+   "Eighty",
+   "Fifty-five"
+  ],
+  "dogru": 0,
+  "kanit": "My grandma is seventy-five years old."
+ },
+ {
+  "soru": "How do they go to the sea?",
+  "tr": "Denize nasıl gidiyorlar?",
+  "secenekler": [
+   "By bus",
+   "By car",
+   "By train",
+   "On foot"
+  ],
+  "dogru": 0,
+  "kanit": "On Saturday, we take the big red bus."
+ },
+ {
+  "soru": "How long is the trip?",
+  "tr": "Yolculuk ne kadar sürüyor?",
+  "secenekler": [
+   "Four hours",
+   "One hour",
+   "Two hours",
+   "Seven hours"
+  ],
+  "dogru": 0,
+  "kanit": "The trip is long: four hours."
+ },
+ {
+  "soru": "What does Grandma do first at the sea?",
+  "tr": "Büyükanne denizde ilk ne yapıyor?",
+  "secenekler": [
+   "She walks into the water",
+   "She eats ice cream",
+   "She sleeps",
+   "She takes photos"
+  ],
+  "dogru": 0,
+  "kanit": "She takes off her shoes and walks into the water."
+ },
+ {
+  "soru": "What does Grandma have in her hand on the bus home?",
+  "tr": "Dönüş otobüsünde büyükannenin elinde ne var?",
+  "secenekler": [
+   "A small white stone",
+   "A shell",
+   "An apple",
+   "A book"
+  ],
+  "dogru": 0,
+  "kanit": "On the bus home, Grandma sleeps with a small white stone in her hand."
+ }
+]

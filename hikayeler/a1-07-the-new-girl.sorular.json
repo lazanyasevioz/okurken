@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "Where is Lucia from?",
+  "tr": "Lucia nereli?",
+  "secenekler": [
+   "Spain",
+   "Italy",
+   "Mexico",
+   "France"
+  ],
+  "dogru": 0,
+  "kanit": "She is from Spain."
+ },
+ {
+  "soru": "Where does Lucia eat lunch on her first day?",
+  "tr": "Lucia ilk gün öğle yemeğini nerede yiyor?",
+  "secenekler": [
+   "Alone under a tree",
+   "With the teacher",
+   "At home",
+   "In the classroom"
+  ],
+  "dogru": 0,
+  "kanit": "At lunch, she eats her sandwich alone under a tree."
+ },
+ {
+  "soru": "What does 'hola' mean?",
+  "tr": "'hola' ne demek?",
+  "secenekler": [
+   "Hello",
+   "Goodbye",
+   "Apple",
+   "Friend"
+  ],
+  "dogru": 0,
+  "kanit": "It means \"hello\"."
+ },
+ {
+  "soru": "What is 'water' in Spanish?",
+  "tr": "İspanyolcada 'water' nasıl denir?",
+  "secenekler": [
+   "Agua",
+   "Libro",
+   "Manzana",
+   "Amigo"
+  ],
+  "dogru": 0,
+  "kanit": "Water is \"agua\"."
+ },
+ {
+  "soru": "What do they say at the end?",
+  "tr": "Sonunda ne diyorlar?",
+  "secenekler": [
+   "\"Mi amiga!\"",
+   "\"Hola!\"",
+   "\"Manzana!\"",
+   "\"Goodbye!\""
+  ],
+  "dogru": 0,
+  "kanit": "Lucia and I say the same thing at the same time: \"Mi amiga!\""
+ }
+]

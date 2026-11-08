@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "What can't Lily find?",
+  "tr": "Lily neyi bulamıyor?",
+  "secenekler": [
+   "Her left shoe",
+   "Her bag",
+   "Her dog",
+   "Her book"
+  ],
+  "dogru": 0,
+  "kanit": "One morning, Lily cannot find her left shoe."
+ },
+ {
+  "soru": "Where does Max dig?",
+  "tr": "Max nereyi kazıyor?",
+  "secenekler": [
+   "Under the old tree",
+   "Under the bed",
+   "In the kitchen",
+   "Near the door"
+  ],
+  "dogru": 0,
+  "kanit": "Max runs to the old tree at the end of the garden. He starts to dig."
+ },
+ {
+  "soru": "What is NOT in the hole?",
+  "tr": "Delikte hangisi YOK?",
+  "secenekler": [
+   "Lily's school bag",
+   "Dad's sock",
+   "Two tennis balls",
+   "An old toy car"
+  ],
+  "dogru": 0,
+  "kanit": "In the hole, there are a lot of things: her left shoe, Dad's sock, her brother's football boot, Mum's slipper, two tennis balls and an old toy car."
+ },
+ {
+  "soru": "What is the family's new rule?",
+  "tr": "Ailenin yeni kuralı ne?",
+  "secenekler": [
+   "All shoes go in a box with a lid",
+   "Max sleeps outside",
+   "No more shoes in the garden",
+   "Max can't play"
+  ],
+  "dogru": 0,
+  "kanit": "Now the family has a new rule: all shoes go in a box with a lid."
+ },
+ {
+  "soru": "What does 'thief' mean?",
+  "tr": "'thief' ne demek?",
+  "secenekler": [
+   "hırsız",
+   "köpek",
+   "arkadaş",
+   "oyuncak"
+  ],
+  "dogru": 0,
+  "kanit": "You are a thief!"
+ }
+]

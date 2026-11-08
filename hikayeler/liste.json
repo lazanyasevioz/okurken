@@ -9,6 +9,132 @@
   "soruSayisi": 5
  },
  {
+  "id": "a1-02-a-busy-monday",
+  "baslik": "A Busy Monday",
+  "seviye": "A1",
+  "dosya": "hikayeler/a1-02-a-busy-monday.txt",
+  "kelime": 187,
+  "sorular": "hikayeler/a1-02-a-busy-monday.sorular.json",
+  "soruSayisi": 5
+ },
+ {
+  "id": "a1-03-grandma-and-the-sea",
+  "baslik": "Grandma and the Sea",
+  "seviye": "A1",
+  "dosya": "hikayeler/a1-03-grandma-and-the-sea.txt",
+  "kelime": 205,
+  "sorular": "hikayeler/a1-03-grandma-and-the-sea.sorular.json",
+  "soruSayisi": 5
+ },
+ {
+  "id": "a1-04-where-are-my-shoes",
+  "baslik": "Where Are My Shoes?",
+  "seviye": "A1",
+  "dosya": "hikayeler/a1-04-where-are-my-shoes.txt",
+  "kelime": 204,
+  "sorular": "hikayeler/a1-04-where-are-my-shoes.sorular.json",
+  "soruSayisi": 5
+ },
+ {
+  "id": "a1-05-robo-makes-breakfast",
+  "baslik": "Robo Makes Breakfast",
+  "seviye": "A1",
+  "dosya": "hikayeler/a1-05-robo-makes-breakfast.txt",
+  "kelime": 195,
+  "sorular": "hikayeler/a1-05-robo-makes-breakfast.sorular.json",
+  "soruSayisi": 5
+ },
+ {
+  "id": "a1-06-a-tent-in-the-living-room",
+  "baslik": "A Tent in the Living Room",
+  "seviye": "A1",
+  "dosya": "hikayeler/a1-06-a-tent-in-the-living-room.txt",
+  "kelime": 211,
+  "sorular": "hikayeler/a1-06-a-tent-in-the-living-room.sorular.json",
+  "soruSayisi": 5
+ },
+ {
+  "id": "a1-07-the-new-girl",
+  "baslik": "The New Girl",
+  "seviye": "A1",
+  "dosya": "hikayeler/a1-07-the-new-girl.txt",
+  "kelime": 198,
+  "sorular": "hikayeler/a1-07-the-new-girl.sorular.json",
+  "soruSayisi": 5
+ },
+ {
+  "id": "a1-08-the-birthday-cake",
+  "baslik": "The Birthday Cake",
+  "seviye": "A1",
+  "dosya": "hikayeler/a1-08-the-birthday-cake.txt",
+  "kelime": 216,
+  "sorular": "hikayeler/a1-08-the-birthday-cake.sorular.json",
+  "soruSayisi": 5
+ },
+ {
+  "id": "a1-09-at-the-market",
+  "baslik": "At the Market",
+  "seviye": "A1",
+  "dosya": "hikayeler/a1-09-at-the-market.txt",
+  "kelime": 206,
+  "sorular": "hikayeler/a1-09-at-the-market.sorular.json",
+  "soruSayisi": 5
+ },
+ {
+  "id": "a1-10-the-snowman",
+  "baslik": "The Snowman",
+  "seviye": "A1",
+  "dosya": "hikayeler/a1-10-the-snowman.txt",
+  "kelime": 204,
+  "sorular": "hikayeler/a1-10-the-snowman.sorular.json",
+  "soruSayisi": 5
+ },
+ {
+  "id": "a1-11-the-big-tomato",
+  "baslik": "The Big Tomato",
+  "seviye": "A1",
+  "dosya": "hikayeler/a1-11-the-big-tomato.txt",
+  "kelime": 204,
+  "sorular": "hikayeler/a1-11-the-big-tomato.sorular.json",
+  "soruSayisi": 5
+ },
+ {
+  "id": "a1-12-the-phone-in-the-fridge",
+  "baslik": "The Phone in the Fridge",
+  "seviye": "A1",
+  "dosya": "hikayeler/a1-12-the-phone-in-the-fridge.txt",
+  "kelime": 206,
+  "sorular": "hikayeler/a1-12-the-phone-in-the-fridge.sorular.json",
+  "soruSayisi": 5
+ },
+ {
+  "id": "a1-13-a-day-at-the-zoo",
+  "baslik": "A Day at the Zoo",
+  "seviye": "A1",
+  "dosya": "hikayeler/a1-13-a-day-at-the-zoo.txt",
+  "kelime": 210,
+  "sorular": "hikayeler/a1-13-a-day-at-the-zoo.sorular.json",
+  "soruSayisi": 5
+ },
+ {
+  "id": "a1-14-the-little-fish",
+  "baslik": "The Little Fish",
+  "seviye": "A1",
+  "dosya": "hikayeler/a1-14-the-little-fish.txt",
+  "kelime": 214,
+  "sorular": "hikayeler/a1-14-the-little-fish.sorular.json",
+  "soruSayisi": 5
+ },
+ {
+  "id": "a1-15-the-moon-follows-me",
+  "baslik": "The Moon Follows Me",
+  "seviye": "A1",
+  "dosya": "hikayeler/a1-15-the-moon-follows-me.txt",
+  "kelime": 207,
+  "sorular": "hikayeler/a1-15-the-moon-follows-me.sorular.json",
+  "soruSayisi": 5
+ },
+ {
   "id": "01-the-lighthouse",
   "baslik": "The Lighthouse",
   "seviye": "A2",

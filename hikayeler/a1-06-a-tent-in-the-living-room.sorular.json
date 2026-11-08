@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "Why can't Sam and Mia go to the park?",
+  "tr": "Sam ve Mia neden parka gidemiyor?",
+  "secenekler": [
+   "It is raining",
+   "It is snowing",
+   "It is late",
+   "They are ill"
+  ],
+  "dogru": 0,
+  "kanit": "It is Saturday, and it is raining."
+ },
+ {
+  "soru": "What do they use to make the tent?",
+  "tr": "Çadırı ne ile yapıyorlar?",
+  "secenekler": [
+   "Four chairs and two blankets",
+   "A table and a towel",
+   "Pillows and boxes",
+   "A real tent"
+  ],
+  "dogru": 0,
+  "kanit": "They take four chairs and two big blankets."
+ },
+ {
+  "soru": "What does Dad bring?",
+  "tr": "Babaları ne getiriyor?",
+  "secenekler": [
+   "Hot chocolate and biscuits",
+   "Pizza",
+   "Tea and cake",
+   "A new game"
+  ],
+  "dogru": 0,
+  "kanit": "He goes to the kitchen and comes back with hot chocolate and biscuits."
+ },
+ {
+  "soru": "What do they want to do when the rain stops?",
+  "tr": "Yağmur durunca ne yapmak istiyorlar?",
+  "secenekler": [
+   "Stay in the tent",
+   "Go to the park",
+   "Play football",
+   "Go to bed"
+  ],
+  "dogru": 0,
+  "kanit": "\"No,\" say Sam and Mia. \"We are camping.\""
+ },
+ {
+  "soru": "What does 'bored' mean?",
+  "tr": "'bored' ne demek?",
+  "secenekler": [
+   "canı sıkılmış",
+   "korkmuş",
+   "yorgun",
+   "mutlu"
+  ],
+  "dogru": 0,
+  "kanit": "They are bored."
+ }
+]

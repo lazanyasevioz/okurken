@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "Where does the family go every Friday?",
+  "tr": "Aile her cuma nereye gidiyor?",
+  "secenekler": [
+   "To Grandma's house",
+   "To the sea",
+   "To the park",
+   "To school"
+  ],
+  "dogru": 0,
+  "kanit": "Every Friday evening, Adam and his parents drive to his grandmother's house."
+ },
+ {
+  "soru": "How long is the trip?",
+  "tr": "Yolculuk ne kadar sürüyor?",
+  "secenekler": [
+   "One hour",
+   "Two hours",
+   "Ten minutes",
+   "Four hours"
+  ],
+  "dogru": 0,
+  "kanit": "The trip is one hour."
+ },
+ {
+  "soru": "What does Adam think the moon is doing?",
+  "tr": "Adam ayın ne yaptığını düşünüyor?",
+  "secenekler": [
+   "Following the car",
+   "Sleeping",
+   "Going away",
+   "Hiding"
+  ],
+  "dogru": 0,
+  "kanit": "The moon is following us."
+ },
+ {
+  "soru": "What does Adam put on the windowsill?",
+  "tr": "Adam pencere pervazına ne koyuyor?",
+  "secenekler": [
+   "A bowl of soup",
+   "A cake",
+   "A glass of milk",
+   "His toy"
+  ],
+  "dogru": 0,
+  "kanit": "Then he takes the bowl to the window and puts it on the windowsill."
+ },
+ {
+  "soru": "What does 'hungry' mean?",
+  "tr": "'hungry' ne demek?",
+  "secenekler": [
+   "aç",
+   "yorgun",
+   "uykulu",
+   "üşümüş"
+  ],
+  "dogru": 0,
+  "kanit": "The moon is hungry too."
+ }
+]

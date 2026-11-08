@@ -3,7 +3,7 @@
 
 const $ = (id) => document.getElementById(id);
 const ekran = $("ekran");
-const KELIME = /[A-Za-z]+(?:'[A-Za-z]+)?/g;   // uret.py ile aynı kural
+const KELIME = /[A-Za-zÀ-ÿ]+(?:'[A-Za-zÀ-ÿ]+)?/g;   // uret.py ile aynı kural
 
 let sozluk = {};        // { "walked": ["yürümek", "walk"], ... }
 let liste = [];         // hikâye listesi
@@ -60,8 +60,22 @@ function listeEkrani() {
   ustBar("Okurken", false);
   ekran.innerHTML = "";
   const giris = el("p", "giris", "Bir hikâye seç. Bilmediğin kelimeye dokun, Türkçesi alttan çıksın.");
+
+  // Seviye sekmeleri (A1 · A2 · B1 ...)
+  const seviyeler = [...new Set(liste.map((h) => h.seviye))].sort();
+  if (!seviyeler.includes(ayarlar.seviye)) ayarlar.seviye = seviyeler[0];
+  const sekmeler = el("div", "sekmeler");
+  for (const s of seviyeler) {
+    const hik = liste.filter((h) => h.seviye === s);
+    const biten = hik.filter((h) => sonuclar[h.id]).length;
+    const b = el("button", "sekme" + (s === ayarlar.seviye ? " aktif" : ""));
+    b.append(el("span", "sekme-ad", s), el("span", "sekme-sayi", `${biten}/${hik.length}`));
+    b.onclick = () => { ayarlar.seviye = s; yaz("okurken.ayarlar", ayarlar); listeEkrani(); };
+    sekmeler.appendChild(b);
+  }
+
   const kutu = el("div", "liste");
-  for (const h of liste) {
+  for (const h of liste.filter((x) => x.seviye === ayarlar.seviye)) {
     const kart = el("button", "kart");
     kart.appendChild(el("h2", "", h.baslik));
     const bilgi = el("div", "bilgi");
@@ -74,7 +88,7 @@ function listeEkrani() {
     kart.onclick = () => { location.hash = "#/h/" + encodeURIComponent(h.id); };
     kutu.appendChild(kart);
   }
-  ekran.append(giris, kutu,
+  ekran.append(giris, sekmeler, kutu,
     el("p", "alt-not", "Sözlük: elle hazırlanmış anlamlar + FreeDict İngilizce–Türkçe (GPL)"));
   window.scrollTo(0, 0);
 }

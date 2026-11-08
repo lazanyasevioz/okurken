@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "How does the class go to the zoo?",
+  "tr": "Sınıf hayvanat bahçesine nasıl gidiyor?",
+  "secenekler": [
+   "By bus",
+   "By train",
+   "By car",
+   "On foot"
+  ],
+  "dogru": 0,
+  "kanit": "We go by bus."
+ },
+ {
+  "soru": "What does the monkey take?",
+  "tr": "Maymun neyi alıyor?",
+  "secenekler": [
+   "A girl's hat",
+   "A banana",
+   "A boy's bag",
+   "The teacher's phone"
+  ],
+  "dogru": 0,
+  "kanit": "One monkey takes a girl's hat and puts it on his head."
+ },
+ {
+  "soru": "Why are the children wet?",
+  "tr": "Çocuklar neden ıslak?",
+  "secenekler": [
+   "An elephant sprays water on them",
+   "It rains",
+   "They swim in the lake",
+   "The penguins splash them"
+  ],
+  "dogru": 0,
+  "kanit": "Then it sprays the water on us!"
+ },
+ {
+  "soru": "What are the writer's favourite animals?",
+  "tr": "Yazarın en sevdiği hayvanlar hangileri?",
+  "secenekler": [
+   "The penguins",
+   "The lions",
+   "The monkeys",
+   "The elephants"
+  ],
+  "dogru": 0,
+  "kanit": "The penguins are my favourite animals."
+ },
+ {
+  "soru": "What does 'lazy' mean?",
+  "tr": "'lazy' ne demek?",
+  "secenekler": [
+   "tembel",
+   "hızlı",
+   "kızgın",
+   "aç"
+  ],
+  "dogru": 0,
+  "kanit": "He is very lazy."
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "Where does Goldie live at the start?",
+  "tr": "Goldie başta nerede yaşıyor?",
+  "secenekler": [
+   "In a glass bowl on Nora's desk",
+   "In a pond",
+   "In the sea",
+   "In a river"
+  ],
+  "dogru": 0,
+  "kanit": "He lives in a glass bowl on her desk."
+ },
+ {
+  "soru": "Why does Nora think Goldie is not happy?",
+  "tr": "Nora neden Goldie'nin mutlu olmadığını düşünüyor?",
+  "secenekler": [
+   "His house is very small",
+   "He doesn't eat",
+   "He is ill",
+   "He is alone at night"
+  ],
+  "dogru": 0,
+  "kanit": "Your house is very small."
+ },
+ {
+  "soru": "Where do they take Goldie?",
+  "tr": "Goldie'yi nereye götürüyorlar?",
+  "secenekler": [
+   "To Grandma's pond",
+   "To the sea",
+   "To a pet shop",
+   "To the zoo"
+  ],
+  "dogru": 0,
+  "kanit": "There is a pond in Grandma's garden"
+ },
+ {
+  "soru": "How many other fish are in the pond?",
+  "tr": "Havuzda kaç tane başka balık var?",
+  "secenekler": [
+   "Five",
+   "Two",
+   "Ten",
+   "None"
+  ],
+  "dogru": 0,
+  "kanit": "There are plants and stones, and there are five other orange fish."
+ },
+ {
+  "soru": "What does 'pond' mean?",
+  "tr": "'pond' ne demek?",
+  "secenekler": [
+   "gölet, küçük havuz",
+   "kase",
+   "deniz",
+   "yaprak"
+  ],
+  "dogru": 0,
+  "kanit": "There is a pond in Grandma's garden"
+ }
+]
