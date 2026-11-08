@@ -1,0 +1,17 @@
+[
+ {"soru": "What colour is the cat?", "tr": "Kedi ne renk?",
+  "secenekler": ["Black", "White", "Grey", "Brown"], "dogru": 0,
+  "kanit": "The cat is small and black."},
+ {"soru": "Where does the cat sit on the first day?", "tr": "Kedi ilk gün nerede oturuyor?",
+  "secenekler": ["Under the bed", "On the table", "In the kitchen", "Next to the window"], "dogru": 0,
+  "kanit": "It sits under the bed all day."},
+ {"soru": "What is Ali's dinner?", "tr": "Ali'nin akşam yemeği ne?",
+  "secenekler": ["Fish and rice", "Milk and bread", "Chicken", "Soup"], "dogru": 0,
+  "kanit": "It looks at Ali's dinner: fish and rice."},
+ {"soru": "What is the cat's name at the end?", "tr": "Sonunda kedinin adı ne?",
+  "secenekler": ["Fish", "Coal", "Star", "Meow"], "dogru": 0,
+  "kanit": "Its name is Fish."},
+ {"soru": "What does 'soft' mean?", "tr": "'soft' ne demek?",
+  "secenekler": ["yumuşak", "sıcak", "küçük", "hızlı"], "dogru": 0,
+  "kanit": "It is warm and soft."}
+]

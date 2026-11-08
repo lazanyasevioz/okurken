@@ -82,6 +82,46 @@ main { max-width: 680px; margin: 0 auto; padding: 16px 16px 140px; }
 .k.secili { background: var(--vurgu); }
 .k.kayitli { text-decoration: underline dotted var(--ana); text-underline-offset: 4px; }
 
+/* Sorular */
+.sorular { margin-top: 36px; padding-top: 24px; border-top: 1px solid var(--cizgi); }
+.sorular h2 { font-size: 20px; color: var(--ana); margin: 0 0 16px; }
+.soru {
+  background: var(--kart); border: 1px solid var(--cizgi); border-radius: 14px;
+  padding: 14px; margin-bottom: 14px; box-shadow: var(--golge);
+}
+.soru-ust { display: flex; gap: 10px; align-items: flex-start; }
+.soru-metin { flex: 1; font-weight: 600; font-size: 17px; line-height: 1.45; }
+.soru-tr { color: var(--soluk); font-size: 15px; margin-top: 4px; }
+.tr-btn {
+  font-size: 12px; font-weight: 700; padding: 4px 8px; border-radius: 8px;
+  border: 1px solid var(--cizgi); color: var(--soluk);
+}
+.tr-btn.aktif { background: var(--ana-acik); color: var(--ana); border-color: var(--ana-acik); }
+.secenekler { display: grid; gap: 8px; margin-top: 12px; }
+.secenek {
+  text-align: left; padding: 11px 14px; border-radius: 10px;
+  border: 1px solid var(--cizgi); background: var(--zemin); font-size: 16px; line-height: 1.35;
+}
+.secenek:not(:disabled):active { background: var(--ana-acik); }
+.secenek:disabled { cursor: default; opacity: .6; }
+.secenek.dogru { background: #d9f0e2; border-color: #4f9e6f; color: #1f5a37; opacity: 1; }
+.secenek.yanlis { background: #f8dcdc; border-color: #c96262; color: #7a2525; opacity: 1; }
+@media (prefers-color-scheme: dark) {
+  .secenek.dogru { background: #1f3b2b; border-color: #4f9e6f; color: #a8e0bf; }
+  .secenek.yanlis { background: #432424; border-color: #c96262; color: #f0b4b4; }
+}
+.aciklama {
+  margin-top: 10px; font-size: 15px; line-height: 1.5; font-family: Georgia, serif;
+  background: var(--ana-acik); border-radius: 10px; padding: 10px 12px;
+}
+.aciklama b { font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif; color: var(--ana); }
+.sonuc { text-align: center; margin: 20px 0 8px; font-size: 17px; }
+.sonuc .puan { font-size: 34px; font-weight: 800; color: var(--ana); }
+.tekrar {
+  margin-top: 12px; padding: 10px 22px; border-radius: 99px;
+  background: var(--ana); color: var(--kart); font-weight: 600;
+}
+
 /* Alttan çıkan kutu */
 #perde { position: fixed; inset: 0; z-index: 8; }
 #kutu {

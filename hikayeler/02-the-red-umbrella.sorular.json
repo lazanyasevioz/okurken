@@ -1,0 +1,20 @@
+[
+ {"soru": "Where did Mina find the umbrella?", "tr": "Mina şemsiyeyi nerede buldu?",
+  "secenekler": ["At the bus stop", "In the school", "In a shop", "On the bus"], "dogru": 0,
+  "kanit": "It was standing alone at the bus stop, bright red, like a flower in the grey rain."},
+ {"soru": "Why didn't Mina take the umbrella on the first day?", "tr": "Mina ilk gün şemsiyeyi neden almadı?",
+  "secenekler": ["She did not want to steal it", "She did not like red", "It was broken", "It was not raining"], "dogru": 0,
+  "kanit": "She did not want to steal it, so she left it there and got on the bus."},
+ {"soru": "What name did someone give the umbrella?", "tr": "Biri şemsiyeye hangi adı verdi?",
+  "secenekler": ["Ruby", "Rose", "Mina", "Red"], "dogru": 0,
+  "kanit": "Someone gave it a name: Ruby."},
+ {"soru": "Who wrote the note with the careful letters?", "tr": "Özenli harflerle yazılmış notu kim yazdı?",
+  "secenekler": ["An old man", "The old woman next to Mina", "A child", "The bus driver"], "dogru": 0,
+  "kanit": "\"I am the first note,\" he said. \"The careful letters.\""},
+ {"soru": "Why did they laugh at the end?", "tr": "Sonunda neden güldüler?",
+  "secenekler": ["The sun came out, so nobody needed an umbrella", "The umbrella broke again", "The coffee was cold", "The bus came"], "dogru": 0,
+  "kanit": "When they finished, the sun came out, and they both laughed, because now nobody needed an umbrella at all."},
+ {"soru": "What does 'fix' mean?", "tr": "'fix' ne demek?",
+  "secenekler": ["tamir etmek", "kırmak", "paylaşmak", "çalmak"], "dogru": 0,
+  "kanit": "I can fix umbrellas."}
+]

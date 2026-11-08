@@ -113,8 +113,23 @@ for dosya in sorted(HIKAYE_DIR.glob("*.txt")):
     govde = "\n".join(satirlar[2:]).replace("’", "'")   # ’ -> '
     kelimeler = [w.lower() for w in KELIME.findall(govde)]
     butun.update(kelimeler)
-    liste.append({"id": dosya.stem, "baslik": baslik, "seviye": seviye,
-                  "dosya": f"hikayeler/{dosya.name}", "kelime": len(kelimeler)})
+    kayit = {"id": dosya.stem, "baslik": baslik, "seviye": seviye,
+             "dosya": f"hikayeler/{dosya.name}", "kelime": len(kelimeler)}
+
+    # Sorular: hikayeler/<ad>.sorular.json (isteğe bağlı)
+    soru_dosya = dosya.with_name(dosya.stem + ".sorular.json")
+    if soru_dosya.exists():
+        sorular = json.loads(soru_dosya.read_text(encoding="utf-8"))
+        tek_satir = " ".join(govde.split())
+        for i, s in enumerate(sorular, 1):
+            assert 0 <= s["dogru"] < len(s["secenekler"]), f"{soru_dosya.name} soru {i}: 'dogru' hatalı"
+            if s.get("kanit") and " ".join(s["kanit"].split()) not in tek_satir:
+                print(f"  UYARI {soru_dosya.name} soru {i}: kanıt cümlesi hikâyede birebir yok")
+        kayit["sorular"] = f"hikayeler/{soru_dosya.name}"
+        kayit["soruSayisi"] = len(sorular)
+    liste.append(kayit)
+
+liste.sort(key=lambda h: (h["seviye"], h["id"]))   # A1 -> B2 sırası
 
 sozluk, eksik = {}, []
 for k in sorted(butun):

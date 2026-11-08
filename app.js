@@ -67,7 +67,9 @@ function listeEkrani() {
     const bilgi = el("div", "bilgi");
     bilgi.appendChild(el("span", "rozet", h.seviye));
     bilgi.appendChild(el("span", "", `${h.kelime} kelime · ~${Math.max(1, Math.round(h.kelime / 150))} dk`));
-    if (ilerleme[h.id] > 0.02 && ilerleme[h.id] < 0.97) bilgi.appendChild(el("span", "devam", "devam et"));
+    const sonuc = sonuclar[h.id];
+    if (sonuc) bilgi.appendChild(el("span", "devam", `✓ ${sonuc.puan}/${sonuc.toplam}`));
+    else if (ilerleme[h.id] > 0.02 && ilerleme[h.id] < 0.97) bilgi.appendChild(el("span", "devam", "devam et"));
     kart.appendChild(bilgi);
     kart.onclick = () => { location.hash = "#/h/" + encodeURIComponent(h.id); };
     kutu.appendChild(kart);
@@ -120,6 +122,7 @@ async function hikayeEkrani(id) {
     if (span) kelimeGoster(span);
   });
   ekran.appendChild(kap);
+  if (h.sorular) ekran.appendChild(soruBolumu(h));
 
   // Kaldığın yere dön
   requestAnimationFrame(() => {
@@ -140,6 +143,91 @@ window.addEventListener("scroll", () => {
     yaz("okurken.ilerleme", ilerleme);
   }, 300);
 }, { passive: true });
+
+// ---------- Sorular: "Ne kadar anladın?" ----------
+let sonuclar = oku("okurken.sonuclar", {});   // { hikayeId: { puan, toplam } }  (en iyi sonuç)
+
+function karistir(dizi) {
+  const a = dizi.slice();
+  for (let i = a.length - 1; i > 0; i--) { const j = Math.floor(Math.random() * (i + 1)); [a[i], a[j]] = [a[j], a[i]]; }
+  return a;
+}
+
+function soruBolumu(h) {
+  const bolum = el("section", "sorular");
+  bolum.appendChild(el("h2", "", "Ne kadar anladın?"));
+  const govde = el("div");
+  bolum.appendChild(govde);
+
+  (async () => {
+    let sorular;
+    try { sorular = await (await fetch(h.sorular)).json(); }
+    catch { govde.appendChild(el("p", "bos-mesaj", "Sorular yüklenemedi.")); return; }
+    ciz();
+
+    function ciz() {
+      govde.innerHTML = "";
+      let cevaplanan = 0, dogruSayisi = 0;
+      const sonucEl = el("div", "sonuc");
+
+      sorular.forEach((s, no) => {
+        const kart = el("div", "soru");
+        const ust = el("div", "soru-ust");
+        ust.appendChild(el("div", "soru-metin", `${no + 1}. ${s.soru}`));
+        const trBtn = el("button", "tr-btn", "TR");
+        trBtn.setAttribute("aria-label", "Türkçesini göster");
+        const trEl = el("div", "soru-tr", s.tr || "");
+        trEl.hidden = true;
+        trBtn.onclick = () => { trEl.hidden = !trEl.hidden; trBtn.classList.toggle("aktif", !trEl.hidden); };
+        if (s.tr) ust.appendChild(trBtn);
+        kart.append(ust, trEl);
+
+        const secenekler = el("div", "secenekler");
+        const aciklama = el("div", "aciklama");
+        aciklama.hidden = true;
+        const sirali = karistir(s.secenekler.map((metin, i) => ({ metin, dogru: i === s.dogru })));
+        for (const sec of sirali) {
+          const b = el("button", "secenek", sec.metin);
+          b.onclick = () => {
+            secenekler.querySelectorAll("button").forEach((x) => { x.disabled = true; });
+            secenekler.querySelectorAll("button").forEach((x, i) => { if (sirali[i].dogru) x.classList.add("dogru"); });
+            if (!sec.dogru) {
+              b.classList.add("yanlis");
+              if (s.kanit) {
+                aciklama.textContent = "";
+                aciklama.append(el("b", "", "Hikâyede: "), document.createTextNode(s.kanit));
+                aciklama.hidden = false;
+              }
+            } else dogruSayisi++;
+            cevaplanan++;
+            if (cevaplanan === sorular.length) bitir();
+          };
+          secenekler.appendChild(b);
+        }
+        kart.append(secenekler, aciklama);
+        govde.appendChild(kart);
+      });
+      govde.appendChild(sonucEl);
+
+      function bitir() {
+        const onceki = sonuclar[h.id];
+        if (!onceki || dogruSayisi >= onceki.puan) {
+          sonuclar[h.id] = { puan: dogruSayisi, toplam: sorular.length };
+          yaz("okurken.sonuclar", sonuclar);
+        }
+        const oran = dogruSayisi / sorular.length;
+        const mesaj = oran === 1 ? "Mükemmel! 🎉" : oran >= 0.6 ? "Güzel! 👍" : "Hikâyeyi bir daha okuyup tekrar dene 💪";
+        sonucEl.textContent = "";
+        sonucEl.append(el("div", "puan", `${dogruSayisi} / ${sorular.length}`), el("div", "", mesaj));
+        const tekrar = el("button", "tekrar", "Tekrar dene");
+        tekrar.onclick = ciz;
+        sonucEl.appendChild(tekrar);
+        sonucEl.scrollIntoView({ behavior: "smooth", block: "center" });
+      }
+    }
+  })();
+  return bolum;
+}
 
 // ---------- 3) Kelime kutusu ----------
 let secili = null;   // { span, kelime, kok, anlam, cumle }
@@ -274,5 +362,11 @@ function el(etiket, sinif, yazi) {
 
 // İnternetsiz çalışma (service worker)
 if ("serviceWorker" in navigator && location.protocol !== "file:") {
+  // Yeni sürüm yüklendiyse sayfayı bir kez yenile (ilk kurulumda değil, sadece güncellemede)
+  const guncellemeMi = !!navigator.serviceWorker.controller;
+  let yenilendi = false;
+  navigator.serviceWorker.addEventListener("controllerchange", () => {
+    if (guncellemeMi && !yenilendi) { yenilendi = true; location.reload(); }
+  });
   navigator.serviceWorker.register("sw.js").catch(() => {});
 }

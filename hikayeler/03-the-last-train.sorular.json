@@ -1,0 +1,20 @@
+[
+ {"soru": "Why couldn't Daniel use his phone?", "tr": "Daniel telefonunu neden kullanamadı?",
+  "secenekler": ["The battery was dead", "There was no signal", "He lost it", "The woman took it"], "dogru": 0,
+  "kanit": "The battery was dead."},
+ {"soru": "What was strange about the train?", "tr": "Trende tuhaf olan neydi?",
+  "secenekler": ["It did not stop at the stations", "It had no driver", "It was full of people", "It was very slow"], "dogru": 0,
+  "kanit": "After a few minutes, he noticed something strange. The train was not stopping."},
+ {"soru": "According to the woman, who does the train stop for?", "tr": "Kadına göre tren kimler için duruyor?",
+  "secenekler": ["People who have forgotten something important", "People who are late", "Only children", "People with tickets"], "dogru": 0,
+  "kanit": "This train only stops for people who have forgotten something important"},
+ {"soru": "Whose house did Daniel see?", "tr": "Daniel kimin evini gördü?",
+  "secenekler": ["His grandmother's", "His own", "The woman's", "His friend's"], "dogru": 0,
+  "kanit": "It was his grandmother's house, the one he had not visited in eight years."},
+ {"soru": "What did Daniel always say to his grandmother?", "tr": "Daniel büyükannesine hep ne derdi?",
+  "secenekler": ["\"Next month\"", "\"Tomorrow\"", "\"Never\"", "\"I am busy\""], "dogru": 0,
+  "kanit": "He remembered the last phone call, the promise he had made, and how easy it had been to say \"next month\" again and again."},
+ {"soru": "What does 'recognised' mean?", "tr": "'recognised' ne demek?",
+  "secenekler": ["tanıdı", "unuttu", "ziyaret etti", "kaybetti"], "dogru": 0,
+  "kanit": "Behind it, there was a house that he recognised immediately."}
+]

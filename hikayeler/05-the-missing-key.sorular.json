@@ -1,0 +1,20 @@
+[
+ {"soru": "What does Leo want to be?", "tr": "Leo ne olmak istiyor?",
+  "secenekler": ["A detective", "A doctor", "A teacher", "A police officer"], "dogru": 0,
+  "kanit": "Leo was twelve years old, and he wanted to be a detective."},
+ {"soru": "Where did Mrs Parker put the key last night?", "tr": "Bayan Parker dün gece anahtarı nereye koydu?",
+  "secenekler": ["On the little table", "In her bag", "Under the sofa", "In her coat"], "dogru": 0,
+  "kanit": "Last night. I came home at eight, I opened the door, and I put the key on the little table."},
+ {"soru": "What did Leo find under the window?", "tr": "Leo pencerenin altında ne buldu?",
+  "secenekler": ["A small white feather", "A silver spoon", "The key", "A button"], "dogru": 0,
+  "kanit": "On the floor, under the window, there was a small white feather."},
+ {"soru": "Who took the key?", "tr": "Anahtarı kim aldı?",
+  "secenekler": ["A magpie", "Pepper the cat", "Leo", "A neighbour"], "dogru": 0,
+  "kanit": "Magpies love shiny things"},
+ {"soru": "Why did Mrs Parker buy a box that was not shiny?", "tr": "Bayan Parker neden parlak olmayan bir kutu aldı?",
+  "secenekler": ["So the bird would not take the key again", "Because it was cheap", "Because she loves boxes", "Leo told her to"], "dogru": 0,
+  "kanit": "It had a lid, and it was not shiny at all."},
+ {"soru": "What does 'nest' mean?", "tr": "'nest' ne demek?",
+  "secenekler": ["kuş yuvası", "dal", "tüy", "bahçe"], "dogru": 0,
+  "kanit": "High in the tree, there was a nest."}
+]

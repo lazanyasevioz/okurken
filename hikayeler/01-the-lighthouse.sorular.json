@@ -1,0 +1,17 @@
+[
+ {"soru": "How many stairs are there in the lighthouse?", "tr": "Deniz fenerinde kaç basamak var?",
+  "secenekler": ["One hundred and twelve", "Fifty-three", "Forty", "Two hundred"], "dogru": 0,
+  "kanit": "There were one hundred and twelve stairs, and he knew each one."},
+ {"soru": "Why did Tom run down to the beach?", "tr": "Tom neden sahile koştu?",
+  "secenekler": ["He saw a small boat with no light near the rocks", "He wanted to swim", "The light was broken", "A ship called him on the radio"], "dogru": 0,
+  "kanit": "One night in October, Tom saw a tiny boat near the rocks. It had no light."},
+ {"soru": "How did Tom help the boat?", "tr": "Tom tekneye nasıl yardım etti?",
+  "secenekler": ["He moved his lamp from left to right", "He swam to the boat", "He called the police", "He threw a rope"], "dogru": 0,
+  "kanit": "Tom held the lamp above his head and moved it from left to right, again and again."},
+ {"soru": "What did the girl's father bring?", "tr": "Kızın babası ne getirdi?",
+  "secenekler": ["Fresh bread and honey", "Tea and apples", "A new radio", "A dog"], "dogru": 0,
+  "kanit": "He brought fresh bread and a jar of honey."},
+ {"soru": "What does 'fog' mean?", "tr": "'fog' ne demek?",
+  "secenekler": ["sis", "dalga", "kaya", "fırtına"], "dogru": 0,
+  "kanit": "The fog came, and I could not see anything."}
+]

@@ -1,23 +1,56 @@
 [
  {
+  "id": "04-the-new-cat",
+  "baslik": "The New Cat",
+  "seviye": "A1",
+  "dosya": "hikayeler/04-the-new-cat.txt",
+  "kelime": 198,
+  "sorular": "hikayeler/04-the-new-cat.sorular.json",
+  "soruSayisi": 5
+ },
+ {
   "id": "01-the-lighthouse",
   "baslik": "The Lighthouse",
   "seviye": "A2",
   "dosya": "hikayeler/01-the-lighthouse.txt",
-  "kelime": 352
+  "kelime": 352,
+  "sorular": "hikayeler/01-the-lighthouse.sorular.json",
+  "soruSayisi": 5
  },
  {
   "id": "02-the-red-umbrella",
   "baslik": "The Red Umbrella",
   "seviye": "A2",
   "dosya": "hikayeler/02-the-red-umbrella.txt",
-  "kelime": 331
+  "kelime": 331,
+  "sorular": "hikayeler/02-the-red-umbrella.sorular.json",
+  "soruSayisi": 6
+ },
+ {
+  "id": "05-the-missing-key",
+  "baslik": "The Missing Key",
+  "seviye": "A2",
+  "dosya": "hikayeler/05-the-missing-key.txt",
+  "kelime": 291,
+  "sorular": "hikayeler/05-the-missing-key.sorular.json",
+  "soruSayisi": 6
  },
  {
   "id": "03-the-last-train",
   "baslik": "The Last Train",
   "seviye": "B1",
   "dosya": "hikayeler/03-the-last-train.txt",
-  "kelime": 347
+  "kelime": 347,
+  "sorular": "hikayeler/03-the-last-train.sorular.json",
+  "soruSayisi": 6
+ },
+ {
+  "id": "06-the-map-in-the-book",
+  "baslik": "The Map in the Book",
+  "seviye": "B1",
+  "dosya": "hikayeler/06-the-map-in-the-book.txt",
+  "kelime": 467,
+  "sorular": "hikayeler/06-the-map-in-the-book.sorular.json",
+  "soruSayisi": 6
  }
 ]

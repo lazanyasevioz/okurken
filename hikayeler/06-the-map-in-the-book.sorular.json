@@ -1,0 +1,20 @@
+[
+ {"soru": "Why did Selin buy the old book?", "tr": "Selin eski kitabı neden aldı?",
+  "secenekler": ["She liked the smell of old paper", "She loves birds", "She was looking for a map", "Her grandfather wanted it"], "dogru": 0,
+  "kanit": "She did not really care about birds; she just liked the smell of old paper."},
+ {"soru": "Where did Selin know the bridge from?", "tr": "Selin köprüyü nereden biliyordu?",
+  "secenekler": ["It was near her grandfather's village", "She saw it in the bird book", "It was near the market", "It was in her school"], "dogru": 0,
+  "kanit": "The bridge was the old stone bridge near her grandfather's village."},
+ {"soru": "When did the shadows of the trees meet?", "tr": "Ağaçların gölgeleri ne zaman birleşti?",
+  "secenekler": ["At exactly twelve o'clock", "In the evening", "Early in the morning", "At midnight"], "dogru": 0,
+  "kanit": "At exactly twelve o'clock, the shadows of the first and the third tree touched each other on the ground, like two hands."},
+ {"soru": "What was inside the metal box?", "tr": "Metal kutunun içinde ne vardı?",
+  "secenekler": ["A photograph and a letter", "Gold coins", "Another map", "Nothing"], "dogru": 0,
+  "kanit": "There was a photograph of a young man and a young woman standing on the stone bridge, and a letter."},
+ {"soru": "Who were the people in the photograph?", "tr": "Fotoğraftaki kişiler kimdi?",
+  "secenekler": ["Her grandfather and grandmother", "Selin's parents", "Two strangers", "Selin and her friend"], "dogru": 0,
+  "kanit": "Your grandmother always said she would hide our story somewhere safe."},
+ {"soru": "What does 'treasure' mean?", "tr": "'treasure' ne demek?",
+  "secenekler": ["hazine", "harita", "kürek", "gölge"], "dogru": 0,
+  "kanit": "Those are the only treasures that matter."}
+]

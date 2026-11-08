@@ -1,6 +1,6 @@
 // İnternetsiz çalışma: ilk açılışta her şeyi telefona kaydeder.
 // Strateji: önce kayıttakini göster, arkada internetten yenisini al (bir sonraki açılışta güncel olur).
-const ONBELLEK = "okurken-v20261108-125948";
+const ONBELLEK = "okurken-v20261108-134321";
 const TEMEL = [
   "./", "index.html", "style.css", "app.js", "sozluk.json", "manifest.json",
   "hikayeler/liste.json", "ikonlar/ikon-180.png", "ikonlar/ikon-192.png", "ikonlar/ikon-512.png",
@@ -9,10 +9,12 @@ const TEMEL = [
 self.addEventListener("install", (e) => {
   e.waitUntil((async () => {
     const c = await caches.open(ONBELLEK);
-    await c.addAll(TEMEL);
-    // Bütün hikâyeleri de indir
-    const liste = await (await fetch("hikayeler/liste.json")).json();
-    await c.addAll(liste.map((h) => h.dosya));
+    // cache: "reload" -> tarayıcının eski kopyasını değil, sunucudaki en yeni dosyayı al
+    const taze = (yollar) => yollar.map((u) => new Request(u, { cache: "reload" }));
+    await c.addAll(taze(TEMEL));
+    // Bütün hikâyeleri ve sorularını da indir
+    const liste = await (await fetch("hikayeler/liste.json", { cache: "reload" })).json();
+    await c.addAll(taze(liste.flatMap((h) => (h.sorular ? [h.dosya, h.sorular] : [h.dosya]))));
     self.skipWaiting();
   })());
 });
