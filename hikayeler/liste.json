@@ -1,0 +1,23 @@
+[
+ {
+  "id": "01-the-lighthouse",
+  "baslik": "The Lighthouse",
+  "seviye": "A2",
+  "dosya": "hikayeler/01-the-lighthouse.txt",
+  "kelime": 352
+ },
+ {
+  "id": "02-the-red-umbrella",
+  "baslik": "The Red Umbrella",
+  "seviye": "A2",
+  "dosya": "hikayeler/02-the-red-umbrella.txt",
+  "kelime": 331
+ },
+ {
+  "id": "03-the-last-train",
+  "baslik": "The Last Train",
+  "seviye": "B1",
+  "dosya": "hikayeler/03-the-last-train.txt",
+  "kelime": 347
+ }
+]

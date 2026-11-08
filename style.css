@@ -1,0 +1,120 @@
+:root {
+  --zemin: #fbf8f1;
+  --kart: #ffffff;
+  --yazi: #23221f;
+  --soluk: #77736a;
+  --ana: #2f5d50;
+  --ana-acik: #e3eee9;
+  --vurgu: #ffe28a;
+  --cizgi: #e7e1d4;
+  --golge: 0 1px 3px rgba(0,0,0,.08);
+  --boyut: 20px;
+}
+@media (prefers-color-scheme: dark) {
+  :root {
+    --zemin: #171816;
+    --kart: #22231f;
+    --yazi: #ece8df;
+    --soluk: #9c978c;
+    --ana: #7fc0a8;
+    --ana-acik: #26352f;
+    --vurgu: #6b5a1c;
+    --cizgi: #34352f;
+    --golge: none;
+  }
+}
+
+* { box-sizing: border-box; -webkit-tap-highlight-color: transparent; }
+html, body { margin: 0; }
+body {
+  background: var(--zemin);
+  color: var(--yazi);
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  padding-bottom: env(safe-area-inset-bottom);
+}
+button { font: inherit; color: inherit; background: none; border: 0; cursor: pointer; }
+
+/* Üst çubuk */
+.ust {
+  position: sticky; top: 0; z-index: 5;
+  display: flex; align-items: center; gap: 8px;
+  padding: calc(10px + env(safe-area-inset-top)) 16px 10px;
+  background: var(--zemin);
+  border-bottom: 1px solid var(--cizgi);
+}
+.ust h1 {
+  flex: 1; margin: 0; font-size: 20px; color: var(--ana);
+  white-space: nowrap; overflow: hidden; text-overflow: ellipsis;
+}
+.ust-sag { display: flex; gap: 2px; }
+.ikon-btn { min-width: 40px; height: 40px; border-radius: 10px; font-size: 16px; font-weight: 600; }
+.ikon-btn:active { background: var(--ana-acik); }
+#geri { font-size: 30px; line-height: 1; padding-bottom: 4px; }
+#sayac { font-size: 12px; margin-left: 2px; color: var(--soluk); }
+
+main { max-width: 680px; margin: 0 auto; padding: 16px 16px 140px; }
+
+/* Hikâye listesi */
+.giris { color: var(--soluk); margin: 4px 0 16px; line-height: 1.5; }
+.liste { display: grid; gap: 12px; }
+.kart {
+  display: block; width: 100%; text-align: left;
+  background: var(--kart); border: 1px solid var(--cizgi); border-radius: 14px;
+  padding: 16px; box-shadow: var(--golge);
+}
+.kart:active { transform: scale(.99); }
+.kart h2 { margin: 0 0 6px; font-family: Georgia, "Times New Roman", serif; font-size: 21px; }
+.kart .bilgi { color: var(--soluk); font-size: 14px; display: flex; gap: 10px; align-items: center; }
+.rozet {
+  background: var(--ana-acik); color: var(--ana);
+  font-weight: 700; font-size: 12px; padding: 2px 8px; border-radius: 99px;
+}
+.devam { color: var(--ana); font-weight: 600; }
+
+/* Okuma ekranı */
+.hikaye {
+  font-family: Georgia, "Times New Roman", serif;
+  font-size: var(--boyut); line-height: 1.75;
+}
+.hikaye p { margin: 0 0 1em; }
+.hikaye .seviye { margin-bottom: 18px; }
+.k { border-radius: 4px; padding: 1px 0; cursor: pointer; }
+.k.secili { background: var(--vurgu); }
+.k.kayitli { text-decoration: underline dotted var(--ana); text-underline-offset: 4px; }
+
+/* Alttan çıkan kutu */
+#perde { position: fixed; inset: 0; z-index: 8; }
+#kutu {
+  position: fixed; left: 0; right: 0; bottom: 0; z-index: 9;
+  max-width: 680px; margin: 0 auto;
+  background: var(--kart); border-top: 1px solid var(--cizgi);
+  border-radius: 18px 18px 0 0;
+  box-shadow: 0 -6px 24px rgba(0,0,0,.15);
+  padding: 16px 20px calc(20px + env(safe-area-inset-bottom));
+  animation: cik .18s ease-out;
+}
+@keyframes cik { from { transform: translateY(30px); opacity: 0; } }
+.kutu-ust { display: flex; justify-content: space-between; align-items: flex-start; gap: 12px; }
+.k-kelime { font-size: 26px; font-weight: 700; font-family: Georgia, serif; }
+.k-kok { color: var(--soluk); font-size: 14px; margin-top: 2px; }
+.k-anlam { font-size: 18px; line-height: 1.5; margin-top: 10px; }
+.k-anlam .bos { color: var(--soluk); font-style: italic; }
+.kutu-btnlar { display: flex; gap: 8px; }
+.yuvarlak {
+  width: 44px; height: 44px; border-radius: 50%;
+  background: var(--ana-acik); color: var(--ana); font-size: 20px;
+}
+.yuvarlak.aktif { background: var(--ana); color: var(--kart); }
+
+/* Kelimelerim */
+.kelime-satir {
+  background: var(--kart); border: 1px solid var(--cizgi); border-radius: 12px;
+  padding: 12px 14px; margin-bottom: 10px; display: flex; gap: 10px; align-items: flex-start;
+}
+.kelime-satir .ic { flex: 1; min-width: 0; }
+.kelime-satir b { font-family: Georgia, serif; font-size: 19px; }
+.kelime-satir .anlam { margin-top: 2px; }
+.kelime-satir .cumle { color: var(--soluk); font-size: 14px; font-style: italic; margin-top: 6px; }
+.sil { color: var(--soluk); font-size: 20px; width: 36px; height: 36px; border-radius: 8px; }
+.bos-mesaj { color: var(--soluk); text-align: center; margin-top: 40px; line-height: 1.6; white-space: pre-line; }
+.alt-not { color: var(--soluk); font-size: 12px; text-align: center; margin-top: 32px; line-height: 1.5; }

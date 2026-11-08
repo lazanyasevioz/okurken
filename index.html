@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+  <title>Okurken</title>
+  <meta name="description" content="İngilizce hikâye oku, kelimeye dokun, Türkçesini gör.">
+  <meta name="theme-color" content="#2f5d50">
+  <link rel="manifest" href="manifest.json">
+  <link rel="icon" href="ikonlar/ikon-192.png">
+  <!-- iPhone: ana ekrana eklenince uygulama gibi açılsın -->
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="apple-mobile-web-app-title" content="Okurken">
+  <link rel="apple-touch-icon" href="ikonlar/ikon-180.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header class="ust">
+    <button id="geri" class="ikon-btn" aria-label="Geri" hidden>‹</button>
+    <h1 id="baslik">Okurken</h1>
+    <div class="ust-sag">
+      <button id="kucult" class="ikon-btn" aria-label="Yazıyı küçült">A−</button>
+      <button id="buyut" class="ikon-btn" aria-label="Yazıyı büyüt">A+</button>
+      <button id="kelimelerBtn" class="ikon-btn" aria-label="Kelimelerim">★<span id="sayac"></span></button>
+    </div>
+  </header>
+
+  <main id="ekran"></main>
+
+  <!-- Kelimeye dokununca alttan çıkan kutu -->
+  <div id="perde" hidden></div>
+  <section id="kutu" hidden aria-live="polite">
+    <div class="kutu-ust">
+      <div>
+        <div id="kKelime" class="k-kelime"></div>
+        <div id="kKok" class="k-kok"></div>
+      </div>
+      <div class="kutu-btnlar">
+        <button id="kDinle" class="yuvarlak" aria-label="Dinle">🔊</button>
+        <button id="kKaydet" class="yuvarlak" aria-label="Kaydet">☆</button>
+      </div>
+    </div>
+    <div id="kAnlam" class="k-anlam"></div>
+  </section>
+
+  <script src="app.js"></script>
+</body>
+</html>
