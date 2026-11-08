@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "Why was the bookshop closing?",
+  "tr": "Kitapçı neden kapanıyordu?",
+  "secenekler": [
+   "The new landlord had tripled the rent",
+   "Mrs Clarke was ill",
+   "Nobody bought books anymore",
+   "A chain bookshop opened next door"
+  ],
+  "dogru": 0,
+  "kanit": "But it could not survive the new landlord, who had just tripled the rent."
+ },
+ {
+  "soru": "How did Mrs Clarke recommend books?",
+  "tr": "Bayan Clarke kitapları nasıl öneriyordu?",
+  "secenekler": [
+   "She asked what had happened in people's lives",
+   "She asked about their favourite authors",
+   "She gave everyone the same book",
+   "She used a computer"
+  ],
+  "dogru": 0,
+  "kanit": "She asked what had happened in their lives recently, and then she handed them exactly the right book."
+ },
+ {
+  "soru": "What did Jonah do at two in the morning?",
+  "tr": "Jonah sabahın ikisinde ne yaptı?",
+  "secenekler": [
+   "He posted about the shop online",
+   "He called Mrs Clarke",
+   "He wrote to the landlord",
+   "He started reading a book"
+  ],
+  "dogru": 0,
+  "kanit": "he posted about it online."
+ },
+ {
+  "soru": "How much money did the campaign raise in the end?",
+  "tr": "Kampanya sonunda ne kadar para topladı?",
+  "secenekler": [
+   "Forty-seven thousand pounds",
+   "Twelve thousand pounds",
+   "Four thousand pounds",
+   "Nineteen thousand pounds"
+  ],
+  "dogru": 0,
+  "kanit": "The campaign closed at forty-seven thousand pounds."
+ },
+ {
+  "soru": "What does 'rent' mean?",
+  "tr": "'rent' ne demek?",
+  "secenekler": [
+   "kira",
+   "vergi",
+   "maaş",
+   "borç"
+  ],
+  "dogru": 0,
+  "kanit": "the new landlord, who had just tripled the rent."
+ }
+]

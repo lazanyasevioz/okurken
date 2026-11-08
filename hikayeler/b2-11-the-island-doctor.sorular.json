@@ -1,0 +1,74 @@
+[
+ {
+  "soru": "Why did Leyla choose the island job?",
+  "tr": "Leyla neden ada işini seçti?",
+  "secenekler": [
+   "Because nothing ever happened there",
+   "Because the salary was high",
+   "Because her family lived there",
+   "Because she loved the sea"
+  ],
+  "dogru": 0,
+  "kanit": "Dr Leyla Arslan had chosen the island job precisely because nothing ever happened there."
+ },
+ {
+  "soru": "Why couldn't Barış be taken to the mainland?",
+  "tr": "Barış neden anakaraya götürülemedi?",
+  "secenekler": [
+   "The storm stopped the ferry and the helicopter",
+   "There was no hospital",
+   "His father refused",
+   "It was too expensive"
+  ],
+  "dogru": 0,
+  "kanit": "The ferry was cancelled. The wind was so strong that the helicopter from the mainland couldn't take off."
+ },
+ {
+  "soru": "How did Leyla contact the surgeon?",
+  "tr": "Leyla cerraha nasıl ulaştı?",
+  "secenekler": [
+   "With a satellite phone",
+   "With her mobile",
+   "With the landline",
+   "By radio"
+  ],
+  "dogru": 0,
+  "kanit": "Then she remembered the satellite phone, which had been sitting in a cupboard since she arrived, still in its box."
+ },
+ {
+  "soru": "Who was Fatma?",
+  "tr": "Fatma kimdi?",
+  "secenekler": [
+   "A retired nurse",
+   "Leyla's mother",
+   "The surgeon's assistant",
+   "Barış's mother"
+  ],
+  "dogru": 0,
+  "kanit": "The island's retired nurse, a seventy-year-old woman called Fatma"
+ },
+ {
+  "soru": "What changed after Leyla's report?",
+  "tr": "Leyla'nın raporundan sonra ne değişti?",
+  "secenekler": [
+   "The clinic got a new generator and satellite connection",
+   "She became famous",
+   "She moved to the city",
+   "A hospital was built"
+  ],
+  "dogru": 0,
+  "kanit": "Six months later, the island clinic received a new generator, a permanent satellite connection, and funding for an annual emergency training course"
+ },
+ {
+  "soru": "What does 'mainland' mean?",
+  "tr": "'mainland' ne demek?",
+  "secenekler": [
+   "anakara",
+   "ada",
+   "liman",
+   "hastane"
+  ],
+  "dogru": 0,
+  "kanit": "the helicopter from the mainland couldn't take off."
+ }
+]

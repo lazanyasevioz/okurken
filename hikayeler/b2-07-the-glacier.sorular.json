@@ -1,0 +1,74 @@
+[
+ {
+  "soru": "What did Ayşe find when she returned to the rock?",
+  "tr": "Ayşe kayaya döndüğünde ne buldu?",
+  "secenekler": [
+   "The glacier had almost completely gone",
+   "The glacier was bigger",
+   "The rock had disappeared",
+   "Her father's camera"
+  ],
+  "dogru": 0,
+  "kanit": "The glacier was gone."
+ },
+ {
+  "soru": "How did she recognise the rock?",
+  "tr": "Kayayı nasıl tanıdı?",
+  "secenekler": [
+   "By its shape, like a sleeping dog",
+   "By a sign",
+   "By GPS",
+   "By her father's name on it"
+  ],
+  "dogru": 0,
+  "kanit": "Finally, she recognised the rock by its shape — a strange, crooked thing that looked a little like a sleeping dog"
+ },
+ {
+  "soru": "What did her father often ask in his last months?",
+  "tr": "Babası son aylarında sık sık ne soruyordu?",
+  "secenekler": [
+   "Whether the ice was still there",
+   "Where his camera was",
+   "When she would get married",
+   "What the weather was like"
+  ],
+  "dogru": 0,
+  "kanit": "\"Is the ice still there?\" he would ask."
+ },
+ {
+  "soru": "What did Ayşe post online?",
+  "tr": "Ayşe internette ne paylaştı?",
+  "secenekler": [
+   "The two photographs and a short text, without graphs",
+   "A scientific paper",
+   "A video of the glacier",
+   "Graphs and statistics"
+  ],
+  "dogru": 0,
+  "kanit": "She didn't include any graphs."
+ },
+ {
+  "soru": "According to Ayşe, what do people protect?",
+  "tr": "Ayşe'ye göre insanlar neyi korur?",
+  "secenekler": [
+   "Places they love",
+   "Statistics",
+   "Money",
+   "Scientific papers"
+  ],
+  "dogru": 0,
+  "kanit": "People don't protect statistics. They protect places they love."
+ },
+ {
+  "soru": "What does 'retreating' mean?",
+  "tr": "'retreating' ne demek?",
+  "secenekler": [
+   "geri çekilen",
+   "büyüyen",
+   "eriyen kar",
+   "parlayan"
+  ],
+  "dogru": 0,
+  "kanit": "retreating into the shadows of the mountain."
+ }
+]

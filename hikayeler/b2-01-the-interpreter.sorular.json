@@ -1,0 +1,74 @@
+[
+ {
+  "soru": "What was Melis's rule as an interpreter?",
+  "tr": "Melis'in tercüman olarak kuralı neydi?",
+  "secenekler": [
+   "Translate the words, not the feelings",
+   "Never speak to patients",
+   "Always comfort the patient",
+   "Only translate good news"
+  ],
+  "dogru": 0,
+  "kanit": "translate the words, not the feelings."
+ },
+ {
+  "soru": "Why did Yusuf want to live until June?",
+  "tr": "Yusuf neden hazirana kadar yaşamak istiyordu?",
+  "secenekler": [
+   "To hold his granddaughter, who would be born then",
+   "To see his son's wedding",
+   "To return to his country",
+   "To finish a bridge"
+  ],
+  "dogru": 0,
+  "kanit": "My son's daughter will be born in June. I would like to hold her once."
+ },
+ {
+  "soru": "Why did Melis feel ashamed?",
+  "tr": "Melis neden utandı?",
+  "secenekler": [
+   "Her voice broke and she stopped being invisible",
+   "She made a translation mistake",
+   "She was late",
+   "She told the patient a lie"
+  ],
+  "dogru": 0,
+  "kanit": "She had broken her own rule. She had stopped being invisible."
+ },
+ {
+  "soru": "Why did Yusuf ask for Melis at all his appointments?",
+  "tr": "Yusuf neden bütün randevularında Melis'i istedi?",
+  "secenekler": [
+   "She translated what he meant, not only what he said",
+   "She was the cheapest interpreter",
+   "She spoke German",
+   "She was his relative"
+  ],
+  "dogru": 0,
+  "kanit": "you were the only person who translated what he meant, not only what he said."
+ },
+ {
+  "soru": "What word did Yusuf write on the photograph?",
+  "tr": "Yusuf fotoğrafın arkasına hangi kelimeyi yazdı?",
+  "secenekler": [
+   "Bridge",
+   "Thanks",
+   "Family",
+   "June"
+  ],
+  "dogru": 0,
+  "kanit": "\"Bridge.\""
+ },
+ {
+  "soru": "What does 'fleeing' mean?",
+  "tr": "'fleeing' ne demek?",
+  "secenekler": [
+   "kaçarak",
+   "savaşarak",
+   "çalışarak",
+   "ağlayarak"
+  ],
+  "dogru": 0,
+  "kanit": "after fleeing a war that had taken his home, his job as an engineer, and most of his family."
+ }
+]

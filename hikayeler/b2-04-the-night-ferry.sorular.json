@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "Why did the four strangers sit together?",
+  "tr": "Dört yabancı neden birlikte oturdu?",
+  "secenekler": [
+   "It was the only table left",
+   "They were friends",
+   "They were all doctors",
+   "The captain asked them to"
+  ],
+  "dogru": 0,
+  "kanit": "four strangers had ended up sitting together simply because it was the only table left."
+ },
+ {
+  "soru": "What was Nadia's secret?",
+  "tr": "Nadia'nın sırrı neydi?",
+  "secenekler": [
+   "She wasn't sure she wanted to be a doctor",
+   "She was afraid of the sea",
+   "She had failed her exams",
+   "She was not going home"
+  ],
+  "dogru": 0,
+  "kanit": "she wasn't sure she wanted to be a doctor anymore"
+ },
+ {
+  "soru": "What did Nadia notice about Mr Ferreira's story?",
+  "tr": "Nadia, Bay Ferreira'nın hikâyesinde neyi fark etti?",
+  "secenekler": [
+   "It kept changing in small ways",
+   "It was too long",
+   "It was about her family",
+   "It was very sad"
+  ],
+  "dogru": 0,
+  "kanit": "Mr Ferreira's story kept changing in small ways."
+ },
+ {
+  "soru": "Who was Mr Ferreira really?",
+  "tr": "Bay Ferreira aslında kimdi?",
+  "secenekler": [
+   "A retired teacher who listens to strangers",
+   "A fisherman",
+   "A famous writer",
+   "The ship's captain"
+  ],
+  "dogru": 0,
+  "kanit": "I was a teacher in the city for forty years."
+ },
+ {
+  "soru": "Why did he think Nadia would be a good doctor?",
+  "tr": "Nadia'nın neden iyi bir doktor olacağını düşündü?",
+  "secenekler": [
+   "Because she noticed when the story didn't fit",
+   "Because she was calm in the storm",
+   "Because her family were doctors",
+   "Because she was kind"
+  ],
+  "dogru": 0,
+  "kanit": "Good doctors notice when the story doesn't fit."
+ }
+]

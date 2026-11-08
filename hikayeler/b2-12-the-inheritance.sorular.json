@@ -1,0 +1,74 @@
+[
+ {
+  "soru": "What did Kemal want to do with the house?",
+  "tr": "Kemal evle ne yapmak istiyordu?",
+  "secenekler": [
+   "Sell it immediately",
+   "Live in it",
+   "Give it to Nil",
+   "Turn it into a music school"
+  ],
+  "dogru": 0,
+  "kanit": "Kemal wanted to sell it immediately"
+ },
+ {
+  "soru": "What was in Sinan's folder?",
+  "tr": "Sinan'ın dosyasında ne vardı?",
+  "secenekler": [
+   "Tickets from his concerts",
+   "Newspaper articles",
+   "School reports",
+   "Old letters"
+  ],
+  "dogru": 0,
+  "kanit": "It contained tickets. Concert tickets, dozens of them"
+ },
+ {
+  "soru": "What did their father ask in his letter?",
+  "tr": "Babaları mektubunda ne istedi?",
+  "secenekler": [
+   "To sit around the kitchen table one more time",
+   "To sell the house",
+   "To divide the money equally",
+   "To visit his grave"
+  ],
+  "dogru": 0,
+  "kanit": "I would like you to sit there one more time."
+ },
+ {
+  "soru": "What song did Sinan play?",
+  "tr": "Sinan hangi şarkıyı çaldı?",
+  "secenekler": [
+   "The one about the boat and the moon",
+   "His new song",
+   "A famous rock song",
+   "A birthday song"
+  ],
+  "dogru": 0,
+  "kanit": "the one about the boat and the moon."
+ },
+ {
+  "soru": "What was the compromise?",
+  "tr": "Varılan uzlaşma neydi?",
+  "secenekler": [
+   "Nil lives there, Kemal pays for repairs, Sinan teaches music",
+   "They sold it and shared the money",
+   "Kemal bought it",
+   "They rented it to tourists"
+  ],
+  "dogru": 0,
+  "kanit": "Nil would live there, Kemal would help pay for the repairs, and Sinan would use the large front room for music lessons"
+ },
+ {
+  "soru": "What does 'siblings' mean?",
+  "tr": "'siblings' ne demek?",
+  "secenekler": [
+   "kardeşler",
+   "kuzenler",
+   "ebeveynler",
+   "komşular"
+  ],
+  "dogru": 0,
+  "kanit": "The three Aydemir siblings had not been in the same room for nine years"
+ }
+]

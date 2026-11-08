@@ -1,0 +1,74 @@
+[
+ {
+  "soru": "How many times had Tara performed in eleven months?",
+  "tr": "Tara on bir ayda kaç kez sahneye çıkmıştı?",
+  "secenekler": [
+   "Never",
+   "Once",
+   "Three hundred and twenty times",
+   "Every Saturday"
+  ],
+  "dogru": 0,
+  "kanit": "she had never once stepped onto the stage."
+ },
+ {
+  "soru": "Why couldn't Margaret perform?",
+  "tr": "Margaret neden oynayamadı?",
+  "secenekler": [
+   "She had food poisoning",
+   "She broke her toe",
+   "She had a fever",
+   "She was at her wedding"
+  ],
+  "dogru": 0,
+  "kanit": "Margaret has food poisoning"
+ },
+ {
+  "soru": "What advice did the director give?",
+  "tr": "Yönetmen hangi tavsiyeyi verdi?",
+  "secenekler": [
+   "Don't try to be Margaret; just be loud",
+   "Copy Margaret exactly",
+   "Speak quietly",
+   "Read from a script"
+  ],
+  "dogru": 0,
+  "kanit": "Don't try to be Margaret. Nobody can be Margaret. Just be very, very loud."
+ },
+ {
+  "soru": "How did the audience react at the end?",
+  "tr": "Seyirciler sonunda nasıl tepki verdi?",
+  "secenekler": [
+   "They applauded and stood up",
+   "They left early",
+   "They asked for their money back",
+   "They were silent and left"
+  ],
+  "dogru": 0,
+  "kanit": "Then the applause started. It went on, and on, and people began to stand up."
+ },
+ {
+  "soru": "What does Tara do for her own understudy?",
+  "tr": "Tara kendi yedeğine ne yapıyor?",
+  "secenekler": [
+   "Makes sure she performs at least once a week",
+   "Ignores her",
+   "Teaches her lines",
+   "Pays her extra"
+  ],
+  "dogru": 0,
+  "kanit": "Every week, she made sure her own understudy got at least one chance to perform."
+ },
+ {
+  "soru": "What does 'understudy' mean?",
+  "tr": "'understudy' ne demek?",
+  "secenekler": [
+   "yedek oyuncu",
+   "yönetmen",
+   "suflör",
+   "figüran"
+  ],
+  "dogru": 0,
+  "kanit": "For eleven months, Tara had been the understudy for the role of Lady Macbeth at the Royal Crown Theatre."
+ }
+]

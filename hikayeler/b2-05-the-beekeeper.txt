@@ -1,0 +1,32 @@
+The Beekeeper
+B2
+
+When Zehra's father died, he left her three things: a small amount of money, a house in a mountain village that nobody wanted to buy, and forty-two beehives.
+
+Zehra was a software developer in Istanbul. She had grown up in the village, but she had left at eighteen and returned only for short visits during holidays, always slightly impatient to get back to the city. She had never been interested in her father's bees. In fact, she was mildly afraid of them.
+
+Her plan was simple. She would spend two weeks in the village, sell the hives to a neighbour, put the house on the market, and go back to her real life.
+
+The neighbour who was supposed to buy the hives was a thin, silent old man called İbrahim, who had kept bees alongside her father for thirty years. When Zehra explained her plan, he listened without interrupting. Then he shook his head.
+
+"I can't take them," he said. "I'm too old, and I have enough work with my own. And you can't sell them now, in the middle of the season. Nobody will pay. But if you leave them alone, they will die."
+
+"They're bees," said Zehra. "Don't they look after themselves?"
+
+İbrahim gave her a long look that made her feel about eight years old. "Your father spent every morning with them for forty years," he said. "Do you think he did that for fun?"
+
+So Zehra stayed. At first, she told herself it was only until she could find a buyer. İbrahim reluctantly agreed to teach her the basics. She learned to wear the protective suit and gloves, to use the smoker to calm the bees, to lift the heavy frames slowly and check for signs of disease. She was stung eleven times in the first week. She cried twice, once from pain and once, unexpectedly, when she found her father's handwriting on a wooden board inside the shed: notes about each hive, with names like "The Grumpy Ones" and "Queen of the Valley."
+
+Something strange happened during the following weeks. In the city, Zehra had suffered from anxiety for years. She slept badly and checked her phone constantly. Here, there was hardly any signal, and the work demanded complete attention. You couldn't think about emails while forty thousand insects were flying around your head. You had to be slow, calm and present. Her father, she realised, had not been a quiet man by nature. He had become quiet because of the bees.
+
+She also learned how much trouble the bees were in. Across the region, colonies were collapsing. Pesticides from big farms, a parasitic mite, and increasingly unpredictable weather were killing them. İbrahim had lost a third of his hives in two years. Her father's notes showed the same pattern, along with something else: careful records of which hives had survived, and what he thought had helped them.
+
+Zehra did what software developers do. She took the data and organised it. She digitised forty years of handwritten notes, combined them with weather records and İbrahim's observations, and started looking for patterns. She discovered that the hives placed near the old wild meadow, where no pesticides had ever been used, survived almost twice as often.
+
+She shared her findings with a beekeeping association, which shared them with a university. A professor came to visit. Then another. Within a year, a small project had started to protect wild meadows around the village, and three other beekeepers were using a simple app that Zehra had designed to record the health of their hives.
+
+She never sold the house. She now works remotely for her company three days a week, and spends the rest of her time with the bees.
+
+Last summer, she painted new names on the hives, alongside her father's old ones. The newest hive, the strongest one in the meadow, has a name in her own handwriting.
+
+It's called "The One Who Stayed."

@@ -1,0 +1,74 @@
+[
+ {
+  "soru": "How long was Necati away?",
+  "tr": "Necati ne kadar uzakta kaldı?",
+  "secenekler": [
+   "Thirty years",
+   "Two years",
+   "Twenty-one years",
+   "Ten years"
+  ],
+  "dogru": 0,
+  "kanit": "He came back thirty years later."
+ },
+ {
+  "soru": "What did he regret most?",
+  "tr": "En çok neye pişmandı?",
+  "secenekler": [
+   "Attending his mother's funeral by video call",
+   "Leaving his job",
+   "His divorce",
+   "Not learning German"
+  ],
+  "dogru": 0,
+  "kanit": "He had attended his mother's funeral by video call during the pandemic, because the borders were closed, which was the thing in his life he regretted most."
+ },
+ {
+  "soru": "How did people see him in Turkey?",
+  "tr": "Türkiye'de insanlar onu nasıl görüyordu?",
+  "secenekler": [
+   "As 'the German one'",
+   "As a tourist",
+   "As a famous man",
+   "As 'the Turkish one'"
+  ],
+  "dogru": 0,
+  "kanit": "Here, he slowly realised, people saw him as \"the German one.\""
+ },
+ {
+  "soru": "Who was Rıfat?",
+  "tr": "Rıfat kimdi?",
+  "secenekler": [
+   "His mother's neighbour for forty years",
+   "His old teacher",
+   "His brother",
+   "The hotel owner"
+  ],
+  "dogru": 0,
+  "kanit": "He had been his mother's neighbour for forty years"
+ },
+ {
+  "soru": "What did Rıfat say about his mother?",
+  "tr": "Rıfat annesi hakkında ne söyledi?",
+  "secenekler": [
+   "She was proud, she just missed him",
+   "She was angry with him",
+   "She forgot him",
+   "She wanted to move to Germany"
+  ],
+  "dogru": 0,
+  "kanit": "She was proud. She just missed you. Those are different things."
+ },
+ {
+  "soru": "What does 'demolished' mean?",
+  "tr": "'demolished' ne demek?",
+  "secenekler": [
+   "yıkılmış",
+   "yenilenmiş",
+   "taşınmış",
+   "kapanmış"
+  ],
+  "dogru": 0,
+  "kanit": "The school he had attended had been demolished."
+ }
+]

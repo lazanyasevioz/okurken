@@ -1,0 +1,74 @@
+[
+ {
+  "soru": "What did the woman always order from room service?",
+  "tr": "Kadın oda servisinden hep ne isterdi?",
+  "secenekler": [
+   "Tea for two and chocolate cake with two forks",
+   "Dinner for one",
+   "Champagne",
+   "Nothing"
+  ],
+  "dogru": 0,
+  "kanit": "a pot of tea, two cups, and a slice of chocolate cake with two forks."
+ },
+ {
+  "soru": "What did the manager think she was?",
+  "tr": "Müdür onun ne olduğunu düşünüyordu?",
+  "secenekler": [
+   "A hotel inspector",
+   "A famous writer",
+   "A widow",
+   "A spy"
+  ],
+  "dogru": 0,
+  "kanit": "The manager suspected she was a hotel inspector"
+ },
+ {
+  "soru": "Who was Ali?",
+  "tr": "Ali kimdi?",
+  "secenekler": [
+   "A lift operator she fell in love with in 1968",
+   "Her husband",
+   "Her brother",
+   "The hotel owner"
+  ],
+  "dogru": 0,
+  "kanit": "He worked here, in this hotel, in 1968 — as a lift operator."
+ },
+ {
+  "soru": "Why did Ali never come to Room 304?",
+  "tr": "Ali neden 304 numaralı odaya hiç gelmedi?",
+  "secenekler": [
+   "He had a traffic accident on the way",
+   "He changed his mind",
+   "Her family stopped him",
+   "He went abroad"
+  ],
+  "dogru": 0,
+  "kanit": "He had been in a traffic accident on the way to the hotel that evening."
+ },
+ {
+  "soru": "What does Kerem do every 17th of October now?",
+  "tr": "Kerem artık her 17 Ekim'de ne yapıyor?",
+  "secenekler": [
+   "Keeps the room empty and opens the door at midnight",
+   "Books the room for himself",
+   "Sends letters to the grandson",
+   "Orders chocolate cake"
+  ],
+  "dogru": 0,
+  "kanit": "At midnight, Kerem takes the lift up to the third floor, opens the door for a moment, and then closes it again."
+ },
+ {
+  "soru": "What does 'condolences' mean?",
+  "tr": "'condolences' ne demek?",
+  "secenekler": [
+   "başsağlığı",
+   "tebrikler",
+   "özür",
+   "teşekkür"
+  ],
+  "dogru": 0,
+  "kanit": "Kerem expressed his condolences"
+ }
+]

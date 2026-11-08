@@ -1,0 +1,74 @@
+[
+ {
+  "soru": "What did the caller want?",
+  "tr": "Arayan kişi ne istiyordu?",
+  "secenekler": [
+   "Five thousand euros for bail",
+   "Aylin's address",
+   "A car",
+   "Her password"
+  ],
+  "dogru": 0,
+  "kanit": "a payment of five thousand euros was needed immediately to arrange bail."
+ },
+ {
+  "soru": "What detail made Aylin suspicious?",
+  "tr": "Hangi ayrıntı Aylin'i şüphelendirdi?",
+  "secenekler": [
+   "The voice said 'Mum', not 'Anne'",
+   "The voice was too quiet",
+   "The number was foreign",
+   "Defne never drives at night"
+  ],
+  "dogru": 0,
+  "kanit": "The voice on the phone had said \"Mum\" three times."
+ },
+ {
+  "soru": "Where was Defne really?",
+  "tr": "Defne aslında neredeydi?",
+  "secenekler": [
+   "In bed in her student flat",
+   "At a police station",
+   "In hospital",
+   "At a party"
+  ],
+  "dogru": 0,
+  "kanit": "Defne was in her bed, in her student flat, perfectly safe."
+ },
+ {
+  "soru": "How did the criminals copy Defne's voice?",
+  "tr": "Suçlular Defne'nin sesini nasıl kopyaladı?",
+  "secenekler": [
+   "From her videos on social media",
+   "They recorded her phone calls",
+   "They met her in person",
+   "From her school"
+  ],
+  "dogru": 0,
+  "kanit": "Defne had posted dozens of videos online"
+ },
+ {
+  "soru": "What did the family decide to use?",
+  "tr": "Aile neyi kullanmaya karar verdi?",
+  "secenekler": [
+   "A secret family password",
+   "A new phone number",
+   "A tracking app",
+   "Only text messages"
+  ],
+  "dogru": 0,
+  "kanit": "They chose a family password"
+ },
+ {
+  "soru": "What does 'voice cloning' mean?",
+  "tr": "'voice cloning' ne demek?",
+  "secenekler": [
+   "ses klonlama, sesi taklit etme",
+   "ses kaydı",
+   "telefon dolandırıcılığı",
+   "şarkı söyleme"
+  ],
+  "dogru": 0,
+  "kanit": "It's called voice cloning"
+ }
+]

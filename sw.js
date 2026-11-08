@@ -1,6 +1,6 @@
 // İnternetsiz çalışma: ilk açılışta her şeyi telefona kaydeder.
 // Strateji: önce kayıttakini göster, arkada internetten yenisini al (bir sonraki açılışta güncel olur).
-const ONBELLEK = "okurken-v20261108-141735";
+const ONBELLEK = "okurken-v20261108-143828";
 const TEMEL = [
   "./", "index.html", "style.css", "app.js", "sozluk.json", "manifest.json",
   "hikayeler/liste.json", "ikonlar/ikon-180.png", "ikonlar/ikon-192.png", "ikonlar/ikon-512.png",

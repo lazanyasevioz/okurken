@@ -1,0 +1,74 @@
+[
+ {
+  "soru": "Where was the violin found?",
+  "tr": "Keman nerede bulundu?",
+  "secenekler": [
+   "In a shipwreck in the Sea of Marmara",
+   "In a museum",
+   "In a church",
+   "In a bakery"
+  ],
+  "dogru": 0,
+  "kanit": "exploring a shipwreck at the bottom of the Sea of Marmara"
+ },
+ {
+  "soru": "What protected the violin from the water?",
+  "tr": "Kemanı sudan ne korudu?",
+  "secenekler": [
+   "A wooden case sealed with wax",
+   "A plastic bag",
+   "A metal box",
+   "Nothing"
+  ],
+  "dogru": 0,
+  "kanit": "a wooden case, sealed with wax, which had protected its contents from the water better than anyone could have hoped."
+ },
+ {
+  "soru": "How long did the restoration take?",
+  "tr": "Restorasyon ne kadar sürdü?",
+  "secenekler": [
+   "Fourteen months",
+   "Six months",
+   "One year",
+   "Four months"
+  ],
+  "dogru": 0,
+  "kanit": "The restoration took fourteen months."
+ },
+ {
+  "soru": "Who was Sarkis Manukyan?",
+  "tr": "Sarkis Manukyan kimdi?",
+  "secenekler": [
+   "A young violinist who died in the sinking",
+   "The ship's captain",
+   "The violin maker",
+   "Anna's grandfather"
+  ],
+  "dogru": 0,
+  "kanit": "Sarkis Manukyan had been a young violinist travelling to a new job with an orchestra."
+ },
+ {
+  "soru": "What did Anna play at the concert?",
+  "tr": "Anna konserde ne çaldı?",
+  "secenekler": [
+   "An old Armenian folk song",
+   "A famous classical piece",
+   "Her own song",
+   "A Turkish pop song"
+  ],
+  "dogru": 0,
+  "kanit": "Anna played a simple piece: an old Armenian folk song that her great-grandmother used to sing"
+ },
+ {
+  "soru": "What does 'shipwreck' mean?",
+  "tr": "'shipwreck' ne demek?",
+  "secenekler": [
+   "batık gemi",
+   "liman",
+   "denizaltı",
+   "fırtına"
+  ],
+  "dogru": 0,
+  "kanit": "exploring a shipwreck at the bottom of the Sea of Marmara"
+ }
+]

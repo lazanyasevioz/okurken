@@ -1,0 +1,74 @@
+[
+ {
+  "soru": "What was Zehra's original plan?",
+  "tr": "Zehra'nın ilk planı neydi?",
+  "secenekler": [
+   "Sell everything and go back to the city",
+   "Become a beekeeper",
+   "Live in the village",
+   "Give the hives to the university"
+  ],
+  "dogru": 0,
+  "kanit": "She would spend two weeks in the village, sell the hives to a neighbour, put the house on the market, and go back to her real life."
+ },
+ {
+  "soru": "Why couldn't İbrahim take the hives?",
+  "tr": "İbrahim kovanları neden alamadı?",
+  "secenekler": [
+   "He was too old and had enough work",
+   "He didn't like Zehra",
+   "He had no money",
+   "He was afraid of bees"
+  ],
+  "dogru": 0,
+  "kanit": "I'm too old, and I have enough work with my own."
+ },
+ {
+  "soru": "What happened to Zehra's anxiety in the village?",
+  "tr": "Köyde Zehra'nın kaygısına ne oldu?",
+  "secenekler": [
+   "It improved because the work demanded attention",
+   "It got worse",
+   "It didn't change",
+   "She took medicine"
+  ],
+  "dogru": 0,
+  "kanit": "You had to be slow, calm and present."
+ },
+ {
+  "soru": "Which hives survived more often?",
+  "tr": "Hangi kovanlar daha sık hayatta kaldı?",
+  "secenekler": [
+   "Those near the wild meadow without pesticides",
+   "Those near the farms",
+   "The newest ones",
+   "Those in the shed"
+  ],
+  "dogru": 0,
+  "kanit": "She discovered that the hives placed near the old wild meadow, where no pesticides had ever been used, survived almost twice as often."
+ },
+ {
+  "soru": "What is the newest hive called?",
+  "tr": "En yeni kovanın adı ne?",
+  "secenekler": [
+   "The One Who Stayed",
+   "Queen of the Valley",
+   "The Grumpy Ones",
+   "Father's Hive"
+  ],
+  "dogru": 0,
+  "kanit": "It's called \"The One Who Stayed.\""
+ },
+ {
+  "soru": "What does 'stung' mean?",
+  "tr": "'stung' ne demek?",
+  "secenekler": [
+   "(arı) soktu / sokuldu",
+   "korktu",
+   "yoruldu",
+   "kayboldu"
+  ],
+  "dogru": 0,
+  "kanit": "She was stung eleven times in the first week."
+ }
+]

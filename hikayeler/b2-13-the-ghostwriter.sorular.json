@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "What was Clara's job?",
+  "tr": "Clara'nın işi neydi?",
+  "secenekler": [
+   "Writing autobiographies for famous people",
+   "Television presenter",
+   "Newspaper editor",
+   "Publisher"
+  ],
+  "dogru": 0,
+  "kanit": "Famous people — footballers, actors, politicians, chefs — paid her to write their autobiographies."
+ },
+ {
+  "soru": "What did Clara notice about Victor's assistant?",
+  "tr": "Clara, Victor'un asistanında neyi fark etti?",
+  "secenekler": [
+   "She flinched when he raised his voice",
+   "She was always late",
+   "She was his daughter",
+   "She wrote his books"
+  ],
+  "dogru": 0,
+  "kanit": "The way his assistant flinched when he raised his voice."
+ },
+ {
+  "soru": "How many former employees did Clara speak to?",
+  "tr": "Clara kaç eski çalışanla konuştu?",
+  "secenekler": [
+   "Eleven",
+   "Five",
+   "Two",
+   "Fifteen"
+  ],
+  "dogru": 0,
+  "kanit": "Over two months, she spoke to eleven former employees of his show."
+ },
+ {
+  "soru": "What did Clara do the night before the book was printed?",
+  "tr": "Kitap basılmadan önceki gece Clara ne yaptı?",
+  "secenekler": [
+   "Sent an investigative article to a newspaper",
+   "Burned the book",
+   "Called Victor",
+   "Rewrote the book"
+  ],
+  "dogru": 0,
+  "kanit": "She sent it to the most respected newspaper in the country."
+ },
+ {
+  "soru": "What happened to the autobiography?",
+  "tr": "Otobiyografiye ne oldu?",
+  "secenekler": [
+   "It was never published",
+   "It became a bestseller",
+   "Clara published it herself",
+   "It was turned into a film"
+  ],
+  "dogru": 0,
+  "kanit": "The autobiography was never published."
+ }
+]

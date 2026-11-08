@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "What did Mr Vasiliev's sign say?",
+  "tr": "Bay Vasiliev'in tabelasında ne yazıyordu?",
+  "secenekler": [
+   "Beat me and win 50 lira. Lose and pay 10.",
+   "Free chess lessons",
+   "Chess for children",
+   "No talking"
+  ],
+  "dogru": 0,
+  "kanit": "Beat me and win 50 lira. Lose and pay 10."
+ },
+ {
+  "soru": "What did Selin have to do in the free games?",
+  "tr": "Selin ücretsiz oyunlarda ne yapmak zorundaydı?",
+  "secenekler": [
+   "Explain every move out loud",
+   "Play with her eyes closed",
+   "Play very fast",
+   "Pay later"
+  ],
+  "dogru": 0,
+  "kanit": "But you have to explain every move before you make it. Out loud."
+ },
+ {
+  "soru": "What did he say a good player should be?",
+  "tr": "İyi bir oyuncunun nasıl olması gerektiğini söyledi?",
+  "secenekler": [
+   "Suspicious of good ideas",
+   "Fast",
+   "Aggressive",
+   "Confident"
+  ],
+  "dogru": 0,
+  "kanit": "A good player is suspicious of good ideas."
+ },
+ {
+  "soru": "What place did Selin get in the national championship?",
+  "tr": "Selin ulusal şampiyonada kaçıncı oldu?",
+  "secenekler": [
+   "Fourth",
+   "First",
+   "Second",
+   "Third"
+  ],
+  "dogru": 0,
+  "kanit": "but she came fourth, out of more than three hundred players"
+ },
+ {
+  "soru": "What did Mr Vasiliev write on the other side of the sign?",
+  "tr": "Bay Vasiliev tabelanın arkasına ne yazdı?",
+  "secenekler": [
+   "Free lessons. Explain every move.",
+   "Closed",
+   "Selin is the winner",
+   "50 lira"
+  ],
+  "dogru": 0,
+  "kanit": "\"Free lessons. Explain every move.\""
+ }
+]

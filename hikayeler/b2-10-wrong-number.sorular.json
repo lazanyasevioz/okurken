@@ -1,0 +1,74 @@
+[
+ {
+  "soru": "Who was the first message meant for?",
+  "tr": "İlk mesaj kime gönderilmişti?",
+  "secenekler": [
+   "Arthur's daughter Rose",
+   "Elena",
+   "Arthur's wife",
+   "A nurse"
+  ],
+  "dogru": 0,
+  "kanit": "My daughter changed her phone, and I must have written the new number wrong."
+ },
+ {
+  "soru": "Where was Rose?",
+  "tr": "Rose neredeydi?",
+  "secenekler": [
+   "In a rehabilitation centre after a stroke",
+   "In another country",
+   "At university",
+   "At home"
+  ],
+  "dogru": 0,
+  "kanit": "his daughter Rose was in a rehabilitation centre after a stroke."
+ },
+ {
+  "soru": "What did Elena help Arthur with?",
+  "tr": "Elena, Arthur'a ne konuda yardım etti?",
+  "secenekler": [
+   "Using the video function on his phone",
+   "Buying a scarf",
+   "Finding a new house",
+   "Cooking soup"
+  ],
+  "dogru": 0,
+  "kanit": "He asked her advice about using the video function on his phone so he could call Rose during the week."
+ },
+ {
+  "soru": "What was Arthur's job?",
+  "tr": "Arthur'un mesleği neydi?",
+  "secenekler": [
+   "Train driver",
+   "Teacher",
+   "Doctor",
+   "Bus driver"
+  ],
+  "dogru": 0,
+  "kanit": "He had been a train driver for forty years"
+ },
+ {
+  "soru": "What did Rose say Elena was?",
+  "tr": "Rose, Elena için ne dedi?",
+  "secenekler": [
+   "Her father's favourite mistake",
+   "Her new sister",
+   "A stranger",
+   "A wrong number"
+  ],
+  "dogru": 0,
+  "kanit": "Dad says you're his favourite mistake"
+ },
+ {
+  "soru": "What does 'stroke' mean here?",
+  "tr": "Burada 'stroke' ne demek?",
+  "secenekler": [
+   "felç, inme",
+   "kalp krizi",
+   "kaza",
+   "grip"
+  ],
+  "dogru": 0,
+  "kanit": "his daughter Rose was in a rehabilitation centre after a stroke."
+ }
+]

@@ -403,5 +403,140 @@
   "kelime": 499,
   "sorular": "hikayeler/b1-15-the-jump.sorular.json",
   "soruSayisi": 5
+ },
+ {
+  "id": "b2-01-the-interpreter",
+  "baslik": "The Interpreter",
+  "seviye": "B2",
+  "dosya": "hikayeler/b2-01-the-interpreter.txt",
+  "kelime": 636,
+  "sorular": "hikayeler/b2-01-the-interpreter.sorular.json",
+  "soruSayisi": 6
+ },
+ {
+  "id": "b2-02-the-last-bookshop",
+  "baslik": "The Last Bookshop",
+  "seviye": "B2",
+  "dosya": "hikayeler/b2-02-the-last-bookshop.txt",
+  "kelime": 615,
+  "sorular": "hikayeler/b2-02-the-last-bookshop.sorular.json",
+  "soruSayisi": 5
+ },
+ {
+  "id": "b2-03-the-voice",
+  "baslik": "The Voice",
+  "seviye": "B2",
+  "dosya": "hikayeler/b2-03-the-voice.txt",
+  "kelime": 604,
+  "sorular": "hikayeler/b2-03-the-voice.sorular.json",
+  "soruSayisi": 6
+ },
+ {
+  "id": "b2-04-the-night-ferry",
+  "baslik": "The Night Ferry",
+  "seviye": "B2",
+  "dosya": "hikayeler/b2-04-the-night-ferry.txt",
+  "kelime": 670,
+  "sorular": "hikayeler/b2-04-the-night-ferry.sorular.json",
+  "soruSayisi": 5
+ },
+ {
+  "id": "b2-05-the-beekeeper",
+  "baslik": "The Beekeeper",
+  "seviye": "B2",
+  "dosya": "hikayeler/b2-05-the-beekeeper.txt",
+  "kelime": 658,
+  "sorular": "hikayeler/b2-05-the-beekeeper.sorular.json",
+  "soruSayisi": 6
+ },
+ {
+  "id": "b2-06-room-304",
+  "baslik": "Room 304",
+  "seviye": "B2",
+  "dosya": "hikayeler/b2-06-room-304.txt",
+  "kelime": 731,
+  "sorular": "hikayeler/b2-06-room-304.sorular.json",
+  "soruSayisi": 6
+ },
+ {
+  "id": "b2-07-the-glacier",
+  "baslik": "The Glacier",
+  "seviye": "B2",
+  "dosya": "hikayeler/b2-07-the-glacier.txt",
+  "kelime": 726,
+  "sorular": "hikayeler/b2-07-the-glacier.sorular.json",
+  "soruSayisi": 6
+ },
+ {
+  "id": "b2-08-the-understudy",
+  "baslik": "The Understudy",
+  "seviye": "B2",
+  "dosya": "hikayeler/b2-08-the-understudy.txt",
+  "kelime": 664,
+  "sorular": "hikayeler/b2-08-the-understudy.sorular.json",
+  "soruSayisi": 6
+ },
+ {
+  "id": "b2-09-the-chess-player",
+  "baslik": "The Chess Player",
+  "seviye": "B2",
+  "dosya": "hikayeler/b2-09-the-chess-player.txt",
+  "kelime": 757,
+  "sorular": "hikayeler/b2-09-the-chess-player.sorular.json",
+  "soruSayisi": 5
+ },
+ {
+  "id": "b2-10-wrong-number",
+  "baslik": "Wrong Number",
+  "seviye": "B2",
+  "dosya": "hikayeler/b2-10-wrong-number.txt",
+  "kelime": 719,
+  "sorular": "hikayeler/b2-10-wrong-number.sorular.json",
+  "soruSayisi": 6
+ },
+ {
+  "id": "b2-11-the-island-doctor",
+  "baslik": "The Island Doctor",
+  "seviye": "B2",
+  "dosya": "hikayeler/b2-11-the-island-doctor.txt",
+  "kelime": 774,
+  "sorular": "hikayeler/b2-11-the-island-doctor.sorular.json",
+  "soruSayisi": 6
+ },
+ {
+  "id": "b2-12-the-inheritance",
+  "baslik": "The Inheritance",
+  "seviye": "B2",
+  "dosya": "hikayeler/b2-12-the-inheritance.txt",
+  "kelime": 753,
+  "sorular": "hikayeler/b2-12-the-inheritance.sorular.json",
+  "soruSayisi": 6
+ },
+ {
+  "id": "b2-13-the-ghostwriter",
+  "baslik": "The Ghostwriter",
+  "seviye": "B2",
+  "dosya": "hikayeler/b2-13-the-ghostwriter.txt",
+  "kelime": 675,
+  "sorular": "hikayeler/b2-13-the-ghostwriter.sorular.json",
+  "soruSayisi": 5
+ },
+ {
+  "id": "b2-14-the-restorer",
+  "baslik": "The Restorer",
+  "seviye": "B2",
+  "dosya": "hikayeler/b2-14-the-restorer.txt",
+  "kelime": 733,
+  "sorular": "hikayeler/b2-14-the-restorer.sorular.json",
+  "soruSayisi": 6
+ },
+ {
+  "id": "b2-15-home-again",
+  "baslik": "Home Again",
+  "seviye": "B2",
+  "dosya": "hikayeler/b2-15-home-again.txt",
+  "kelime": 759,
+  "sorular": "hikayeler/b2-15-home-again.sorular.json",
+  "soruSayisi": 6
  }
 ]
