@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "Why did Yuki eat everything on her plate?",
+  "tr": "Yuki neden tabağındaki her şeyi yedi?",
+  "secenekler": [
+   "In Japan it is polite to finish your plate",
+   "She was very hungry",
+   "She loved the food",
+   "The grandmother told her to"
+  ],
+  "dogru": 0,
+  "kanit": "Yuki ate everything, because in Japan it is polite to finish your plate."
+ },
+ {
+  "soru": "In the Demir family, what does an empty plate mean?",
+  "tr": "Demir ailesinde boş tabak ne anlama geliyor?",
+  "secenekler": [
+   "You are still hungry",
+   "You didn't like the food",
+   "You want tea",
+   "You are finished"
+  ],
+  "dogru": 0,
+  "kanit": "In our house, if your plate is empty, it means you're still hungry."
+ },
+ {
+  "soru": "What did Yuki do when she heard 'as easy as eating a melon'?",
+  "tr": "Yuki 'kavun yemek kadar kolay' sözünü duyunca ne yaptı?",
+  "secenekler": [
+   "She looked for a melon in the kitchen",
+   "She laughed",
+   "She wrote it down",
+   "She ate a melon"
+  ],
+  "dogru": 0,
+  "kanit": "she went to the kitchen to look for a melon."
+ },
+ {
+  "soru": "What did Yuki teach the grandmother to make?",
+  "tr": "Yuki büyükanneye ne yapmayı öğretti?",
+  "secenekler": [
+   "Onigiri",
+   "Dolma",
+   "Sushi",
+   "Melon salad"
+  ],
+  "dogru": 0,
+  "kanit": "The next week, Yuki taught the grandmother how to make onigiri, Japanese rice balls."
+ },
+ {
+  "soru": "What did Yuki do on the plane?",
+  "tr": "Yuki uçakta ne yaptı?",
+  "secenekler": [
+   "She ate every single dolma",
+   "She left a little bit",
+   "She slept",
+   "She gave them away"
+  ],
+  "dogru": 0,
+  "kanit": "Yuki opened the box on the plane and ate every single one."
+ }
+]

@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "What was the village tradition?",
+  "tr": "Köyün geleneği neydi?",
+  "secenekler": [
+   "Jumping from the bridge on the last day of summer",
+   "Swimming across the river",
+   "A summer party",
+   "Fishing from the bridge"
+  ],
+  "dogru": 0,
+  "kanit": "On the last day of the holidays, they jumped from the old stone bridge into the river."
+ },
+ {
+  "soru": "Why was this summer different?",
+  "tr": "Bu yaz neden farklıydı?",
+  "secenekler": [
+   "Her friends were moving away",
+   "The bridge was closed",
+   "Kaya was moving to Germany",
+   "The water was cold"
+  ],
+  "dogru": 0,
+  "kanit": "In September, her best friend Ada was moving to Germany with her family."
+ },
+ {
+  "soru": "What did Kaya realise she was really afraid of?",
+  "tr": "Kaya aslında neden korktuğunu fark etti?",
+  "secenekler": [
+   "The end of something",
+   "The water",
+   "The height",
+   "Her friends laughing"
+  ],
+  "dogru": 0,
+  "kanit": "She was afraid of the end of something."
+ },
+ {
+  "soru": "What did the others do while Kaya was on the wall?",
+  "tr": "Kaya duvardayken diğerleri ne yaptı?",
+  "secenekler": [
+   "They floated and waited quietly",
+   "They laughed at her",
+   "They went home",
+   "They shouted at her to jump"
+  ],
+  "dogru": 0,
+  "kanit": "They just floated in the water, looking up at her, waiting."
+ },
+ {
+  "soru": "What does 'tradition' mean?",
+  "tr": "'tradition' ne demek?",
+  "secenekler": [
+   "gelenek",
+   "tatil",
+   "köprü",
+   "yarış"
+  ],
+  "dogru": 0,
+  "kanit": "Every summer, the teenagers in Kaya's village had the same tradition."
+ }
+]

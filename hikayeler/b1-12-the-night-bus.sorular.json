@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "How long had Hasan driven the night bus?",
+  "tr": "Hasan gece otobüsünü ne kadar süredir kullanıyordu?",
+  "secenekler": [
+   "Eleven years",
+   "Twenty-five years",
+   "One year",
+   "Seven years"
+  ],
+  "dogru": 0,
+  "kanit": "Hasan had driven the night bus, line N7, for eleven years."
+ },
+ {
+  "soru": "What did the baker bring on Fridays?",
+  "tr": "Fırıncı cumaları ne getiriyordu?",
+  "secenekler": [
+   "A warm simit",
+   "Coffee",
+   "A cake",
+   "Bread"
+  ],
+  "dogru": 0,
+  "kanit": "There was the baker who started work at 2 a.m. and always brought Hasan a warm simit on Fridays."
+ },
+ {
+  "soru": "Why did the old man ride the bus every night?",
+  "tr": "Yaşlı adam neden her gece otobüse biniyordu?",
+  "secenekler": [
+   "His late wife used to drive that route",
+   "He couldn't sleep because of noise",
+   "He had no home",
+   "He worked at the hospital"
+  ],
+  "dogru": 0,
+  "kanit": "My wife and I used to drive this route"
+ },
+ {
+  "soru": "Who was Leman Hanım?",
+  "tr": "Leman Hanım kimdi?",
+  "secenekler": [
+   "The old man's wife, who trained Hasan",
+   "The nurse",
+   "The baker's mother",
+   "The student"
+  ],
+  "dogru": 0,
+  "kanit": "\"That was her,\" he said. \"That was exactly her.\""
+ },
+ {
+  "soru": "Where did the old man sit after that night?",
+  "tr": "O geceden sonra yaşlı adam nereye oturdu?",
+  "secenekler": [
+   "In the front seat next to Hasan",
+   "In the third row",
+   "At the back",
+   "He didn't ride the bus anymore"
+  ],
+  "dogru": 0,
+  "kanit": "He sat in the front seat, next to Hasan, and they talked all the way through the empty city."
+ }
+]

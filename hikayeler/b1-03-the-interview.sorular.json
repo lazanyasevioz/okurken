@@ -1,0 +1,74 @@
+[
+ {
+  "soru": "How had Leyla's previous interviews ended?",
+  "tr": "Leyla'nın önceki mülakatları nasıl sonuçlanmıştı?",
+  "secenekler": [
+   "With a polite rejection email",
+   "With a job offer",
+   "She never went to them",
+   "With a phone call"
+  ],
+  "dogru": 0,
+  "kanit": "The first three had all ended with the same polite email: \"Unfortunately, we have decided to continue with other candidates.\""
+ },
+ {
+  "soru": "Why was Leyla late for the interview?",
+  "tr": "Leyla mülakata neden geç kaldı?",
+  "secenekler": [
+   "She helped a man collect his papers",
+   "She missed the bus",
+   "She got lost",
+   "She forgot the address"
+  ],
+  "dogru": 0,
+  "kanit": "It took them almost ten minutes to collect all the papers and put them back in order."
+ },
+ {
+  "soru": "Who was the elderly man?",
+  "tr": "Yaşlı adam kimdi?",
+  "secenekler": [
+   "The founder of the company",
+   "The receptionist's father",
+   "Another candidate",
+   "A cleaner"
+  ],
+  "dogru": 0,
+  "kanit": "I'm the founder of this company."
+ },
+ {
+  "soru": "What did Leyla do differently in this interview?",
+  "tr": "Leyla bu mülakatta neyi farklı yaptı?",
+  "secenekler": [
+   "She told the truth about her failures",
+   "She wore a new jacket",
+   "She talked very little",
+   "She brought a present"
+  ],
+  "dogru": 0,
+  "kanit": "So I'll just tell you the truth."
+ },
+ {
+  "soru": "What does 'Unfortunately' at the start of the email suggest?",
+  "tr": "E-postanın başındaki 'Unfortunately' neyi ima eder?",
+  "secenekler": [
+   "Bad news / a rejection",
+   "Good news",
+   "An invitation",
+   "A question"
+  ],
+  "dogru": 0,
+  "kanit": "It did not begin with \"Unfortunately.\""
+ },
+ {
+  "soru": "What does 'hesitated' mean?",
+  "tr": "'hesitated' ne demek?",
+  "secenekler": [
+   "tereddüt etti, duraksadı",
+   "bağırdı",
+   "gülümsedi",
+   "ağladı"
+  ],
+  "dogru": 0,
+  "kanit": "Leyla hesitated."
+ }
+]

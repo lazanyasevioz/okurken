@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "Where did Elif find the bottle?",
+  "tr": "Elif şişeyi nerede buldu?",
+  "secenekler": [
+   "On a Black Sea beach",
+   "In Scotland",
+   "In a lighthouse",
+   "In the Mediterranean"
+  ],
+  "dogru": 0,
+  "kanit": "Elif found the bottle on a cold morning in February, half buried in the sand of a beach on the Black Sea coast."
+ },
+ {
+  "soru": "Where did Thomas live when he wrote the message?",
+  "tr": "Thomas mesajı yazdığında nerede yaşıyordu?",
+  "secenekler": [
+   "In a lighthouse in Scotland",
+   "In Turkey",
+   "On a ship",
+   "In London"
+  ],
+  "dogru": 0,
+  "kanit": "I am eleven years old and I live in a lighthouse in Scotland with my father."
+ },
+ {
+  "soru": "What is Thomas's job now?",
+  "tr": "Thomas'ın şimdiki işi ne?",
+  "secenekler": [
+   "Marine biologist",
+   "Lighthouse keeper",
+   "Teacher",
+   "Sailor"
+  ],
+  "dogru": 0,
+  "kanit": "Thomas now worked as a marine biologist, studying ocean currents."
+ },
+ {
+  "soru": "How far did the bottle travel?",
+  "tr": "Şişe ne kadar yol kat etti?",
+  "secenekler": [
+   "More than eight thousand kilometres",
+   "About five hundred kilometres",
+   "Two thousand kilometres",
+   "Eighty kilometres"
+  ],
+  "dogru": 0,
+  "kanit": "It had travelled more than eight thousand kilometres."
+ },
+ {
+  "soru": "What did Thomas give Elif at the end?",
+  "tr": "Thomas sonunda Elif'e ne verdi?",
+  "secenekler": [
+   "A new bottle with a new message",
+   "A map",
+   "A book",
+   "A photograph"
+  ],
+  "dogru": 0,
+  "kanit": "Before he left, he gave her a new bottle with a new message inside."
+ }
+]

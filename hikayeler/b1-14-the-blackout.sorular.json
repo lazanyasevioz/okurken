@@ -1,0 +1,74 @@
+[
+ {
+  "soru": "What was Selim doing when the lights went out?",
+  "tr": "Işıklar gittiğinde Selim ne yapıyordu?",
+  "secenekler": [
+   "Playing an online game",
+   "Sleeping",
+   "Cooking",
+   "Watching television"
+  ],
+  "dogru": 0,
+  "kanit": "Selim was in the middle of an online game when his screen went black."
+ },
+ {
+  "soru": "Why couldn't Selim get any news?",
+  "tr": "Selim neden haber alamıyordu?",
+  "secenekler": [
+   "The mobile network was overloaded",
+   "His phone was broken",
+   "There was no radio",
+   "He didn't want to"
+  ],
+  "dogru": 0,
+  "kanit": "His phone had forty percent battery, but the mobile network was overloaded."
+ },
+ {
+  "soru": "What caused the blackout, according to the radio?",
+  "tr": "Radyoya göre elektrik kesintisinin sebebi neydi?",
+  "secenekler": [
+   "A problem at a power station",
+   "A storm",
+   "An accident on the street",
+   "A computer virus"
+  ],
+  "dogru": 0,
+  "kanit": "The radio said that there was a problem with a power station outside the city"
+ },
+ {
+  "soru": "What could they see in the sky?",
+  "tr": "Gökyüzünde ne görebiliyorlardı?",
+  "secenekler": [
+   "The Milky Way and thousands of stars",
+   "Only the moon",
+   "Planes",
+   "Clouds"
+  ],
+  "dogru": 0,
+  "kanit": "That's the Milky Way"
+ },
+ {
+  "soru": "What do the neighbours do every month now?",
+  "tr": "Komşular artık her ay ne yapıyor?",
+  "secenekler": [
+   "They meet on the roof and watch the stars",
+   "They turn off the electricity",
+   "They have a party in the street",
+   "They play online games"
+  ],
+  "dogru": 0,
+  "kanit": "And on the first Tuesday of every month, the neighbours meet on the roof, turn off their phones, and wait for the stars."
+ },
+ {
+  "soru": "What does 'blackout' mean?",
+  "tr": "'blackout' ne demek?",
+  "secenekler": [
+   "elektrik kesintisi",
+   "karanlık oda",
+   "fırtına",
+   "kara delik"
+  ],
+  "dogru": 0,
+  "kanit": "At 8:43 on a Tuesday evening in July, the whole city went dark."
+ }
+]

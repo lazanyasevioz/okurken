@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "What was Grandma Nur famous for?",
+  "tr": "Nur Nine ne ile ünlüydü?",
+  "secenekler": [
+   "Her lemon cake",
+   "Her bread",
+   "Her soup",
+   "Her dolma"
+  ],
+  "dogru": 0,
+  "kanit": "her kitchen was full of people and the smell of her famous lemon cake."
+ },
+ {
+  "soru": "Why did Aslı move in with her grandmother?",
+  "tr": "Aslı neden büyükannesinin yanına taşındı?",
+  "secenekler": [
+   "To help her because of her dementia",
+   "Because it was near her job",
+   "Because she wanted to learn cooking",
+   "Because her parents moved away"
+  ],
+  "dogru": 0,
+  "kanit": "She moved in with her grandmother to help, while she studied at the university nearby."
+ },
+ {
+  "soru": "What did Grandma Nur say about the first lemon?",
+  "tr": "Nur Nine ilk limon için ne dedi?",
+  "secenekler": [
+   "It was too hard; she needed a soft one",
+   "It was perfect",
+   "It was too small",
+   "It wasn't a lemon"
+  ],
+  "dogru": 0,
+  "kanit": "\"Not this one,\" she said clearly. \"Too hard. You need a soft one. With a thin skin.\""
+ },
+ {
+  "soru": "What was the secret ingredient?",
+  "tr": "Gizli malzeme neydi?",
+  "secenekler": [
+   "A spoon of yoghurt",
+   "Honey",
+   "Cinnamon",
+   "Orange juice"
+  ],
+  "dogru": 0,
+  "kanit": "A spoon of yoghurt — that was the secret nobody knew."
+ },
+ {
+  "soru": "Where is the recipe today?",
+  "tr": "Tarif bugün nerede?",
+  "secenekler": [
+   "In a frame on the kitchen wall",
+   "In Grandma's notebook",
+   "On the internet",
+   "Lost again"
+  ],
+  "dogru": 0,
+  "kanit": "Today, the recipe is in a frame on the kitchen wall, in Aslı's untidy handwriting."
+ }
+]

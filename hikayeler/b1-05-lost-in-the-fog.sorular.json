@@ -1,0 +1,74 @@
+[
+ {
+  "soru": "What was their mistake?",
+  "tr": "Hataları neydi?",
+  "secenekler": [
+   "They stayed too long at the top",
+   "They forgot their map",
+   "They walked too fast",
+   "They didn't bring food"
+  ],
+  "dogru": 0,
+  "kanit": "They took photos, ate lunch, and lay in the sun for a while."
+ },
+ {
+  "soru": "Why couldn't they use the map on the phone?",
+  "tr": "Telefondaki haritayı neden kullanamadılar?",
+  "secenekler": [
+   "There was no signal",
+   "The phone was broken",
+   "Nina lost the phone",
+   "The map was wrong"
+  ],
+  "dogru": 0,
+  "kanit": "There was no signal, and the battery was at eleven percent."
+ },
+ {
+  "soru": "How did they know they were going in circles?",
+  "tr": "Daire çizerek döndüklerini nasıl anladılar?",
+  "secenekler": [
+   "They passed the same rock twice",
+   "The dog told them",
+   "They saw the lake again",
+   "Oscar's phone showed it"
+  ],
+  "dogru": 0,
+  "kanit": "They passed the same strange rock twice."
+ },
+ {
+  "soru": "Who helped them?",
+  "tr": "Onlara kim yardım etti?",
+  "secenekler": [
+   "A sheepdog called Bess",
+   "A farmer on a tractor",
+   "Another walker",
+   "The police"
+  ],
+  "dogru": 0,
+  "kanit": "There you are, Bess!"
+ },
+ {
+  "soru": "According to the farmer, why does Bess do this?",
+  "tr": "Çiftçiye göre Bess bunu neden yapıyor?",
+  "secenekler": [
+   "She thinks walkers are sheep with backpacks",
+   "She is trained by the police",
+   "She wants food",
+   "She is lost too"
+  ],
+  "dogru": 0,
+  "kanit": "She thinks walkers are just sheep with backpacks."
+ },
+ {
+  "soru": "What does 'waterproof' mean?",
+  "tr": "'waterproof' ne demek?",
+  "secenekler": [
+   "su geçirmez",
+   "sıcak",
+   "yeni",
+   "renkli"
+  ],
+  "dogru": 0,
+  "kanit": "Nina's jacket was not waterproof."
+ }
+]

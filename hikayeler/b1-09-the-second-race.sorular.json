@@ -1,0 +1,74 @@
+[
+ {
+  "soru": "What happened to Murat twenty years ago?",
+  "tr": "Yirmi yıl önce Murat'a ne oldu?",
+  "secenekler": [
+   "He fell and broke his ankle in a final race",
+   "He won the championship",
+   "He stopped running because of his job",
+   "He moved to another country"
+  ],
+  "dogru": 0,
+  "kanit": "he was leading the final race by ten metres when he fell on the last bend."
+ },
+ {
+  "soru": "What did Murat like about Zeynep?",
+  "tr": "Murat, Zeynep'te neyi beğeniyordu?",
+  "secenekler": [
+   "She never stopped",
+   "She was the fastest",
+   "She was the strongest",
+   "She was his daughter"
+  ],
+  "dogru": 0,
+  "kanit": "But she never stopped."
+ },
+ {
+  "soru": "What did Murat tell Zeynep before the race?",
+  "tr": "Murat yarıştan önce Zeynep'e ne anlattı?",
+  "secenekler": [
+   "His own story",
+   "A joke",
+   "The rules of the race",
+   "Nothing"
+  ],
+  "dogru": 0,
+  "kanit": "Then he told her his story, the whole thing."
+ },
+ {
+  "soru": "In which place did Zeynep finish?",
+  "tr": "Zeynep kaçıncı oldu?",
+  "secenekler": [
+   "Seventh",
+   "First",
+   "Second",
+   "She didn't finish"
+  ],
+  "dogru": 0,
+  "kanit": "she did not stop until she crossed the line, in seventh place."
+ },
+ {
+  "soru": "What was the new rule in the changing room?",
+  "tr": "Soyunma odasındaki yeni kural neydi?",
+  "secenekler": [
+   "Falling is allowed. Staying down is not.",
+   "Always win.",
+   "Never run alone.",
+   "Don't fall on the bend."
+  ],
+  "dogru": 0,
+  "kanit": "\"Falling is allowed. Staying down is not.\""
+ },
+ {
+  "soru": "What does 'ankle' mean?",
+  "tr": "'ankle' ne demek?",
+  "secenekler": [
+   "ayak bileği",
+   "diz",
+   "dirsek",
+   "omuz"
+  ],
+  "dogru": 0,
+  "kanit": "He broke his ankle in two places."
+ }
+]

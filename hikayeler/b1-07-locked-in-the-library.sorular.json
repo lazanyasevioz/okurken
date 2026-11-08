@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "Why was Cem locked in the library?",
+  "tr": "Cem neden kütüphanede kilitli kaldı?",
+  "secenekler": [
+   "He fell asleep in a chair",
+   "He hid on purpose",
+   "He lost his key",
+   "The guard forgot him"
+  ],
+  "dogru": 0,
+  "kanit": "He only closed his eyes for a moment."
+ },
+ {
+  "soru": "Why didn't he use the emergency exit?",
+  "tr": "Acil çıkışı neden kullanmadı?",
+  "secenekler": [
+   "He didn't want the alarm to call the police",
+   "It was too far",
+   "He didn't see it",
+   "It was broken"
+  ],
+  "dogru": 0,
+  "kanit": "He didn't want the police to come, so he didn't touch it."
+ },
+ {
+  "soru": "Who did Cem meet at midnight?",
+  "tr": "Cem gece yarısı kiminle karşılaştı?",
+  "secenekler": [
+   "The night guard",
+   "A thief",
+   "His mother",
+   "A librarian"
+  ],
+  "dogru": 0,
+  "kanit": "It was the night guard."
+ },
+ {
+  "soru": "What was special about the book from 1650?",
+  "tr": "1650 tarihli kitabın özelliği neydi?",
+  "secenekler": [
+   "It had a dried flower between its pages",
+   "It was written by a poet",
+   "It was a map",
+   "It was very small"
+  ],
+  "dogru": 0,
+  "kanit": "a book from 1650 with a dried flower still pressed between its pages."
+ },
+ {
+  "soru": "What does Cem do now on Saturdays?",
+  "tr": "Cem artık cumartesileri ne yapıyor?",
+  "secenekler": [
+   "He volunteers at the library",
+   "He sleeps in the library",
+   "He studies history",
+   "He works with his mother"
+  ],
+  "dogru": 0,
+  "kanit": "Now he works there every Saturday."
+ }
+]

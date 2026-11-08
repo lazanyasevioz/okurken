@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "What did the app 'Choose' promise?",
+  "tr": "'Choose' uygulaması ne vaat ediyordu?",
+  "secenekler": [
+   "To make every decision easier",
+   "To find new friends",
+   "To make you rich",
+   "To teach languages"
+  ],
+  "dogru": 0,
+  "kanit": "it promised to make every decision in your life easier."
+ },
+ {
+  "soru": "Which suggestion made Daniel stop and think?",
+  "tr": "Hangi öneri Daniel'ı durdurup düşündürdü?",
+  "secenekler": [
+   "To spend less time with his friend Marco",
+   "To change his job",
+   "To move to a new flat",
+   "To wear a blue shirt"
+  ],
+  "dogru": 0,
+  "kanit": "Your friend Marco is not optimal"
+ },
+ {
+  "soru": "How did Daniel feel in his new flat?",
+  "tr": "Daniel yeni dairesinde nasıl hissetti?",
+  "secenekler": [
+   "It didn't feel like his home",
+   "Very happy",
+   "It was too small",
+   "It was too noisy"
+  ],
+  "dogru": 0,
+  "kanit": "And it didn't feel like his home at all."
+ },
+ {
+  "soru": "Where did Daniel and Marco eat?",
+  "tr": "Daniel ve Marco nerede yemek yedi?",
+  "secenekler": [
+   "In a small, noisy kebab shop",
+   "In a Thai restaurant",
+   "At Daniel's flat",
+   "In an expensive restaurant"
+  ],
+  "dogru": 0,
+  "kanit": "They walked for forty minutes and ended up in a small, noisy kebab shop with plastic chairs and terrible lighting."
+ },
+ {
+  "soru": "What does 'optimal' mean?",
+  "tr": "'optimal' ne demek?",
+  "secenekler": [
+   "en uygun, en iyi",
+   "pahalı",
+   "yeni",
+   "tehlikeli"
+  ],
+  "dogru": 0,
+  "kanit": "It was not optimal. It was perfect."
+ }
+]

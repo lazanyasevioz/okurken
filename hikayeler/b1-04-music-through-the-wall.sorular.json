@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "When did the piano start every night?",
+  "tr": "Piyano her gece ne zaman başlıyordu?",
+  "secenekler": [
+   "At eleven o'clock",
+   "At midnight",
+   "At nine o'clock",
+   "In the morning"
+  ],
+  "dogru": 0,
+  "kanit": "Then, on the first night, at exactly eleven o'clock, the piano started."
+ },
+ {
+  "soru": "What was the problem with the music?",
+  "tr": "Müzikle ilgili sorun neydi?",
+  "secenekler": [
+   "The pianist always stopped at the same mistake",
+   "It was too fast",
+   "It was very loud rock music",
+   "It was a different song every night"
+  ],
+  "dogru": 0,
+  "kanit": "The pianist played the first part perfectly, then made a mistake at the same place every time, stopped, and started again from the beginning."
+ },
+ {
+  "soru": "Who wrote the piece of music?",
+  "tr": "Müzik parçasını kim yazmıştı?",
+  "secenekler": [
+   "Mr Halil's wife, Nermin",
+   "Mr Halil",
+   "Irem",
+   "A famous composer"
+  ],
+  "dogru": 0,
+  "kanit": "she had written that piece of music for him on their wedding day, fifty years ago."
+ },
+ {
+  "soru": "How did Irem help Mr Halil?",
+  "tr": "İrem, Bay Halil'e nasıl yardım etti?",
+  "secenekler": [
+   "She played the difficult part on her violin",
+   "She gave him piano lessons online",
+   "She bought him a new piano",
+   "She wrote the notes again"
+  ],
+  "dogru": 0,
+  "kanit": "She played the difficult part slowly, while Mr Halil watched her fingers."
+ },
+ {
+  "soru": "What does 'bother' mean in 'I'm sorry to bother you'?",
+  "tr": "'I'm sorry to bother you' cümlesinde 'bother' ne demek?",
+  "secenekler": [
+   "rahatsız etmek",
+   "yardım etmek",
+   "aramak",
+   "uyandırmak"
+  ],
+  "dogru": 0,
+  "kanit": "I'm sorry to bother you"
+ }
+]

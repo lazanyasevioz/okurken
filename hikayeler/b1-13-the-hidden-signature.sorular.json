@@ -1,0 +1,62 @@
+[
+ {
+  "soru": "What did the label on the painting say?",
+  "tr": "Tablonun etiketinde ne yazıyordu?",
+  "secenekler": [
+   "Unknown artist, around 1890",
+   "Saliha Avcı, 1891",
+   "Deniz, 2024",
+   "A woman by the window"
+  ],
+  "dogru": 0,
+  "kanit": "The label said only: \"Unknown artist, around 1890.\""
+ },
+ {
+  "soru": "What did Deniz notice in the bottom corner?",
+  "tr": "Deniz alt köşede ne fark etti?",
+  "secenekler": [
+   "Faint lines that looked like letters",
+   "A small hole",
+   "A date",
+   "A flower"
+  ],
+  "dogru": 0,
+  "kanit": "Under the dark paint of the floor, there were some faint lines."
+ },
+ {
+  "soru": "What was under the woman by the window?",
+  "tr": "Penceredeki kadının altında ne vardı?",
+  "secenekler": [
+   "A self-portrait of a young woman artist",
+   "A landscape",
+   "Another window",
+   "Nothing"
+  ],
+  "dogru": 0,
+  "kanit": "there was a completely different painting — a self-portrait of a young woman holding a paintbrush."
+ },
+ {
+  "soru": "Why did Saliha probably paint over her signature?",
+  "tr": "Saliha imzasının üstünü muhtemelen neden boyadı?",
+  "secenekler": [
+   "So the painting could be sold",
+   "Because she didn't like it",
+   "Because she made a mistake",
+   "Because her teacher told her"
+  ],
+  "dogru": 0,
+  "kanit": "Saliha had painted over her own signature, probably so that the painting could be sold."
+ },
+ {
+  "soru": "What did Mr Veli say about the painting?",
+  "tr": "Bay Veli tablo hakkında ne dedi?",
+  "secenekler": [
+   "He walked past it for twenty years but never really looked",
+   "He always loved it",
+   "He knew about the signature",
+   "He painted it"
+  ],
+  "dogru": 0,
+  "kanit": "Every day for twenty years, I walked past that painting"
+ }
+]
